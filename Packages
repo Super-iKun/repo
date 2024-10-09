@@ -756,22 +756,6 @@ Description: 音量管理，就是这么简单。包含功能：混响、多元�
 Author: sunshinesong
 Name: VolumeManager
 
-Package: com.swing.pureyouku
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: SWING
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/PureYouKu_0.0.1_iphoneos-arm64.deb
-Size: 7984
-MD5sum: 5dc6ab4043f1a04518a5e383ddacef04
-SHA1: 207a557d5b384ba0b4c242d14e4d68d51221cad2
-SHA256: 689c809c0a707cfbddef46626cb502179cb94c60355296dd4e554a030798b3d6
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: SWING
-Name: PureYouKu
-
 Package: com.telegram.return
 Version: 1.0
 Architecture: iphoneos-arm64
