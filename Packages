@@ -809,6 +809,22 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
+Package: com.sunshinesong.volume-manager
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/音量管理1.0.3.deb
+Size: 253032
+MD5sum: 9f4aa9a3e8eb0abe5b8d26fa299bdddc
+SHA1: a8111d4d100d2a3d0c4db41ec1da21d8a1ffaa3f
+SHA256: 465ba2834352fa532e48cd67ffd715cdd7619f2af03a626fe7a1ca977d5ef89b
+Section: Tweaks
+Description: 音量管理，就是这么简单。包含功能：混响、多元化音量。
+Author: sunshinesong
+Name: VolumeManager
+
 Package: com.swing.pureyouku
 Version: 0.0.1
 Architecture: iphoneos-arm64
