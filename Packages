@@ -106,6 +106,22 @@ Description: CC Toggle to block ads on demand!
 Author: 0xkuj <0xkujz@gmail.com>
 Name: CCAdsBeGone (rootless)
 
+Package: com.0xkuj.ccadsbegone.rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/CCadsbegone.rootless_1.1_iphoneos-arm64.deb
+Size: 119848
+MD5sum: 3df40dbee7f2370680378edf8c397e7d
+SHA1: 87d67ff607880a59579ea9c8ab0e4a8077b0bd9f
+SHA256: aa264f4a184bb9158f23230c7dd8ffe2af51edaa868f1e19c00649e4a03847e4
+Section: Tweaks
+Description: CC Toggle to block ads on demand!
+Author: 0xkuj <0xkujz@gmail.com>
+Name: CCAdsBeGone (rootless)
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
