@@ -109,22 +109,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SneakyCam隐私相机-Rootless
 Sponsor: 搬运工
 
-Package: cn.llld.smarthh
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟 X：h_h_x_t
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/SmartNotifications汉化-rootless_0.0.2_iphoneos-arm64.deb
-Size: 10724
-MD5sum: f4d5b8316492967893ecef906a6991cc
-SHA1: 0f95df5c1b7194cd3a87e5a88a7491c925460965
-SHA256: 9e967bebced8b0b796d846d0f02c7a65d393821047f165a03ed6f04b2d67fd1c
-Section: rootless汉化补丁
-Description: SmartNotifications和SmartNotifications2汉化(已处理任何汉化冲突的问题)，0325新增几个单词-中文语言包-rootless
-Author: 来了老弟 X：h_h_x_t
-Name: SmartNotifications汉化-rootless
-
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -394,21 +378,6 @@ Depiction: https://repo.swing1993.cn/depictions/index.html?packageId=com.ginsu.y
 Icon: https://repo.swing1993.cn/api/packageinfo/com.ginsu.ytmusicultimate/icon.png
 Name: YTMusicUltimate
 Sileodepiction: https://repo.swing1993.cn/depictions/native/com.ginsu.ytmusicultimate.json
-
-Package: com.hbwechathelper.ailun
-Version: 1.7.5
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/黄白助手(微信插件)-Rootless_1.7.5_iphoneos-arm64.deb
-Size: 9411180
-MD5sum: 9f198fe3108cd02c3b961fa4757e940e
-SHA1: 97b15819a4ef8dd798667e92f53e4b1e4af3b448
-SHA256: 9dc7fadc3b878a0859b21f8b6f8bb8f9a469a8f8f46b0db2fb19c45c5a4275fe
-Section: Mao
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信插件)-Rootless
 
 Package: com.hitori.misaki
 Version: 2.1.7
