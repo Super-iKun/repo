@@ -520,26 +520,6 @@ Description: 1. 系统截屏时隐藏    2. 收起到最小时让它不那么显
 Author: SquidForce
 Name: HidePullOver 隐藏PullOver小把手
 
-Package: com.lenglengyu.vpnplus-rootless
-Version: 2.9.2
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 3320
-Depends: mobilesubstrate, preferenceloader, com.lenglengyu.libsupervipp-rootless (>= 3.0.0)
-Conflicts: com.lenglengyu.bananahook, com.lenglengyu.sofastvpnhook, com.lenglengyu.zsjsqpro, com.lenglengyu.telescopevpn, com.lenglengyu.wepnhook, com.lenglengyu.letsvpnpro, com.lenglengyu.sealprohook, com.lenglengyu.ltzvpnpro, com.lenglengyu.deepvpn, com.lenglengyu.firstvpn, com.lenglengyu.quickrunvpn, com.lenglengyu.planevpn, com.lenglengyu.basevpn, com.lenglengyu.kuaimvpn
-Filename: ./debs/VPN Plus-Rootless【VPN助手】_2.9.2_iphoneos-arm64.deb
-Size: 1046608
-MD5sum: 56a3a2c23b1a90877073f67e5c8b91fe
-SHA1: 9035348b74c723438b121252c47aeab6d181b4b5
-SHA256: d42ff0fc0171d997d9fa34a23061792ce2ff6518ee78be451ad678f7a83c43db
-Section: Fugu15
-Description: 各种梯子破解工具，仅供会员使用。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/vpnplus.html
-Icon: file:///Library/PreferenceBundles/vpnplus.bundle/icon@2x.png
-Name: VPN Plus-Rootless【VPN助手】
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/vpnplussileo
-
 Package: com.nathan.internalstoragesettings
 Version: 1.0
 Architecture: iphoneos-arm64
