@@ -1,3 +1,421 @@
+Package: byg.iosios.net.cpudasher.rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/CPU Dasher 破解-Rootless_0.0.1_iphoneos-arm64.deb
+Size: 3004
+MD5sum: 82ebb00aec6cb8a6d7fcfd191c727ad1
+SHA1: 542468ebd298924cc17ea21b1c4b8dafa0af3d1f
+SHA256: 41c76e630d27347c460ef13bb21cd5305bb0c02d6e947f7be6b64f87f188622f
+Section: 自研插件
+Description: 解锁专业版，插件无任何弹窗！由搬运工源iOSign免费首发，如需转载，请留出处，谢谢！搬运工源只为给大家带来更多更好的插件！
+Author: iOSign
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: CPU Dasher 破解-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.denyphotoalbumsllld.rootless
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 709
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/DenyPhotoAlbums相册增强-Rootless_1.2.1_iphoneos-arm64.deb
+Size: 73024
+MD5sum: 705e0656e930b638dcdb29acea0afbff
+SHA1: 3cb7b4d6890ea06010a519aeba311b4cc6160ce2
+SHA256: d00502870fa174c42bedcde7e6504f2aef7bfd61ecf6492bb2183909d8501260
+Section: 系统增强
+Priority: optional
+Description: 系统照片增强，隐藏多个自定义选项，感谢巨魔商店M哥汉化分享！感谢有你，温暖春风！比官方高0.01个版本是因为之前已经上架修复版，这次是跟着官方更新汉化！
+Author: CydiaGeek
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: DenyPhotoAlbums相册增强-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.easynotify.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/快捷开关APP消息通知-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 8212
+MD5sum: 81005dbc3254ee5daf79273df7bc1689
+SHA1: 5b6e32e59c570138034713139fbd10e9eadd0a4f
+SHA256: c63b5a87b2f8d1975a29af14697bc8b8b455cfed6b3365baf2736d47001ae4f9
+Section: 系统增强
+Description: 按压APP图标3D Touch菜单快速开关消息通知，有需要的用户可以安装体验！
+Author: Snail
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 快捷开关APP消息通知-Rootless
+Sponsor: 搬运工
+
+Package: com.0xkuj.ccadsbegone.rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/CCAdsBeGone (rootless)_1.1_iphoneos-arm64.deb
+Size: 119984
+MD5sum: 6be9d28b3041f247a597805d37389bb2
+SHA1: b81b536585811ff714c939a64ebf1e2966b6fccf
+SHA256: 04a8351f917a34d2faf9dc645f690e2c81ee75bd95b1e596c6616dd9fe53387e
+Section: Tweaks
+Description: CC Toggle to block ads on demand!
+Author: 0xkuj <0xkujz@gmail.com>
+Name: CCAdsBeGone (rootless)
+
+Package: com.25mao.doutu.rootless
+Version: 3.1-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/斗图助手-Rootless_3.1-5_iphoneos-arm64.deb
+Size: 1211684
+MD5sum: 0b81f947e73745c56da946e5c86482ea
+SHA1: 97bc5d99a2aaaa869530790af844ed1f4d39c027
+SHA256: f03a3402ceb6ce050a464dbd499e67ca638260922204a6c973990bbaffc6acce
+Section: Rootless
+Priority: optional
+Description: 斗图助手-Rootless
+Author: Mao
+Name: 斗图助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.leftpan.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/左滑返回-Rootless_1.0-6_iphoneos-arm64.deb
+Size: 44208
+MD5sum: 9564fb296696c26431369edfd0797db3
+SHA1: 94b05cf3b86ac9e7d8280a96c2f4cb2d2a021516
+SHA256: 211340d61b485dbf693ae4bc89810f8560be669d203c834e37900d27310f68f3
+Section: Rootless
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Name: 左滑返回-Rootless
+
+Package: com.25mao.msgfilt.rootless
+Version: 1.0-5.1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/消息屏蔽助手-Rootless_1.0-5.1_iphoneos-arm64.deb
+Size: 122124
+MD5sum: 9973a545f83fa61303e0ce2ef88717e2
+SHA1: 18ac9b9d6901eca6710f0f5ee8fea436378d5743
+SHA256: 4f97b571a410761c99ba4e4291c01e10b606a1efceaaa0b966fb017f848d07c8
+Section: Rootless
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/微信插件管理-Rootless_0.1-3_iphoneos-arm64.deb
+Size: 19640
+MD5sum: a13f145eb5295795611aa0985fbd410d
+SHA1: 51dddb7a1d6f4f5837776267cae3de3976a4f288
+SHA256: 6b330aac147fea7613e2527c6f73edf2c162f803f69b03d437bd30ccf6a4287e
+Section: Rootless
+Priority: optional
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.dao.betteralarm
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 756
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl, com.hk.betteralarm, com.qms.betteralarm
+Filename: ./debs/BetterAlarm中文版(rootless)_1.5_iphoneos-arm64.deb
+Size: 296028
+MD5sum: feb031a42a66a6793bccb7c337e358b6
+SHA1: 73942d97bde8c760ee488f125a9b5611c603f8bc
+SHA256: fe7adf6e89dbe6f56647cc78e5c591f895b3af71460fd6862016fe43ebd6a33b
+Section: 嗨-工具
+Description: 漂亮的定时器和闹钟提醒，根据开源编译。
+Author: NoisyFlake
+Name: BetterAlarm中文版(rootless)
+
+Package: com.dao.bhinsta
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta
+Filename: ./debs/BHInsta(rootless)_0.0.1_iphoneos-arm64.deb
+Size: 69328
+MD5sum: be64848a89adbeefcbaecfaeb5f806bd
+SHA1: 1b1f743605c8e7b25f3c064330159c819368ec9c
+SHA256: 6e72ea4ab7061aae54902d60e568ee3bf0ae682f3d6b824ab6ff6e8c3c6a019a
+Section: 嗨-工具
+Description: Instagram多功能插件，可去广告、下载等，源内有汉化包。
+Author: Bandar Alruwaili
+Name: BHInsta(rootless)
+
+Package: com.dao.bhtwitter
+Version: 4.3-1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.bhtwitter.cn
+Filename: ./debs/BHTwitter 中文版(rootless)_4.3-1_iphoneos-arm64.deb
+Size: 7621788
+MD5sum: 01414fd7d68cddf3a56d82e96c5d7dfd
+SHA1: a3dce8ec7f755fb38678a7709acb110ea15e0d89
+SHA256: e9145e80a845882a0ab921a164fc88833e3f374f2b8af175ecde0cda4c5e20fa
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(rootless)
+
+Package: com.hbwechathelper.ailun
+Version: 1.7.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/黄白助手(微信插件)-Rootless_1.7.5_iphoneos-arm64.deb
+Size: 9411180
+MD5sum: 9f198fe3108cd02c3b961fa4757e940e
+SHA1: 97b15819a4ef8dd798667e92f53e4b1e4af3b448
+SHA256: 9dc7fadc3b878a0859b21f8b6f8bb8f9a469a8f8f46b0db2fb19c45c5a4275fe
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.hk.bhinsta.cn.rl
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/BHInsta 简体中文包(rootless)_0.0.1-1_iphoneos-arm64.deb
+Size: 5412
+MD5sum: 3345323508a3b8d782112768f13a0ebc
+SHA1: 626b3aeec66309ccf755a6cb110b57b4fb8da81f
+SHA256: 2fe632910cb65fbe2ef2e377f1273b9f636b1c865be370a880e42a987d963064
+Section: 嗨-汉化
+Description: BHInsta 简体中文包(rootless)。
+Author: 妖刀
+Name: BHInsta 简体中文包(rootless)
+
+Package: com.hk.choicy.cn.rl
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: ./debs/Choicy 简体中文包(rootless)_1.4.6_iphoneos-arm64.deb
+Size: 4272
+MD5sum: 05ed14de95f41863d6c4db41e19c9d32
+SHA1: c676428120943b3962726264f03bb58cda73b3e8
+SHA256: d90c0b7b1e1ef83abb0439afbdb5a2658a6d400392eb94a3da6bbc45b046fd3c
+Section: 嗨-汉化
+Description: Choicy 简体中文包(rootless)。
+Author: 妖刀
+Name: Choicy 简体中文包(rootless)
+
+Package: com.huami.dyyy
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: someone
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/DYYY_1.4-2_iphoneos-arm64.deb
+Size: 19704
+MD5sum: 16f031a88abbfba17de8c9012cd5179d
+SHA1: fab2f8b1a72ccb8c2f1c57449682560e89e743a3
+SHA256: ef0d8e9e4deeb7710eb73aae1da6e2f047dc171a920f2ea50fadc0bc562bc1fd
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huayuarc.pddnoads.rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: cike
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/拼多多NoAds-Rootless_0.0.1-1_iphoneos-arm64.deb
+Size: 3544
+MD5sum: ac571818687603f53305416ecc40e7b5
+SHA1: 23223639d1ff3ce486ea0576140d6421d8dc19b8
+SHA256: c3840d315330c47a7cffc2d4c44c8697674eeee3d057b5ed757413735e476ebf
+Section: 插件
+Description: 屏蔽启动广告｜屏蔽语音录入｜屏蔽弹窗｜屏蔽首页漂浮｜屏蔽直播弹窗｜屏蔽搜索栏文字｜屏蔽个人中心横幅
+Author: cike
+Name: 拼多多NoAds-Rootless
+Sponsor: cike
+
+Package: com.netskao.appdata
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/AppData_1.4.2_iphoneos-arm64.deb
+Size: 823256
+MD5sum: ab51f7770000ef346c676312d8f36d3d
+SHA1: 775a2545e89457840bc716496a346138240b0eb5
+SHA256: b2c387e2042175cc47aa581f8fbf95279d619a92cee04e99b92e5002d2730ce2
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/AwemeDisableBar_1.1-3_iphoneos-arm64.deb
+Size: 42048
+MD5sum: 4a55593b0befff486fdd38f6ef0c0329
+SHA1: 60253dbeffbe1e6a5a6b6667face320d309bcb3e
+SHA256: 429eca1e2c2b428dd31d845c5ab444e920cb6c662b82d718da2110c222d62dc0
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+
+Package: com.netskao.awemedownloadmedia
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/AwemeDownloadMedia_1.1-7_iphoneos-arm64.deb
+Size: 112112
+MD5sum: d109befd7f681973e5a2f8d5f87489f2
+SHA1: 48705de23eea94e4efcef579eaac9fb5918c8bd7
+SHA256: 8cef51cb63d97410e188ff0a128b4343ff17b3704ec28f0c3df0531e30fb4bfe
+Section: Netskao-Tweaks
+Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDownloadMedia
+
+Package: com.netskao.awemefullscreen
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/AwemeFullScreen_1.1-8_iphoneos-arm64.deb
+Size: 23760
+MD5sum: 17580f2bbc181b2745edfa5cde994b5d
+SHA1: 8cf3847cfac0f23ce8cd57b7ad9fec04ab5da81d
+SHA256: e9d7dcf67fd29cdd66672ee7491406f4f4a4f718bdd95d7e1d162dd5ab1b8d5b
+Section: Netskao-Tweaks
+Description: Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.
+Author: Netskao
+Name: AwemeFullScreen
+
+Package: com.netskao.awemevideotime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 124
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/AwemeVideoTime_1.1-1_iphoneos-arm64.deb
+Size: 28324
+MD5sum: 0e52ca812c45e9bebee3dc4bb74a01e8
+SHA1: 61abc34c7cfd258ea78f522755c406c83e95f843
+SHA256: 80be3c1c3e929945036a65de079e9187cf8894f4ae7e4c9919d98608f6cafce2
+Section: Netskao-Tweaks
+Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeVideoTime
+
+Package: com.netskao.ccbadgeclear
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/CCBadgeClear_1.2-6_iphoneos-arm64.deb
+Size: 25688
+MD5sum: bb2439cd91b8fc38ff4fc6ef06890786
+SHA1: 1cfed3543437dfafa1487a8da8eaa29c4ac144c0
+SHA256: 3f69ec304450a96838c5addce8063cbce8e95fca989efc6c0e4579a425542ee8
+Section: Netskao-Tweaks
+Description: Quickly clean up all red badge on desktop via Control Center, Support iOS15+
+Author: Netskao
+Name: CCBadgeClear
+
+Package: com.nx.appcardlite
+Version: 2.2.5-8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/App Lecard_2.2.5-8_iphoneos-arm64.deb
+Size: 186336
+MD5sum: f4eff2dbd29433e6f109cb0777b180c4
+SHA1: 682d18c88e26bc5f1f1a4cbb0ba928e6bfdde4e0
+SHA256: 9b1e3a528a0fb8db03fafda2809908b5a9bb1f959c71d21b8a7ddfe911f22e63
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.skypain.ccrespring
+Version: 1.1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debs/CCRespring_1.1.0-2_iphoneos-arm64.deb
+Size: 13112
+MD5sum: 80e1962f8b91675a0c477d87e495270f
+SHA1: 6b51ddf6a3d767c7db7f06c7fb1324930e80d32c
+SHA256: 7c6152f853e7610298b52a434524c0a31d39e5a1b983d269db5dc70f229737b9
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心注销模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
+Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
+Name: CCRespring
+Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
+
+Package: com.skypain.ccvpn
+Version: 1.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: ./debs/CCVPN_1.1.1-2_iphoneos-arm64.deb
+Size: 30656
+MD5sum: 852d2619ed7a4d19a82d982d821e8358
+SHA1: 80c112bdcc2ade55514cad7322a103b7443b2708
+SHA256: 8ad845fa94f6bf5048a9724245646a8257ee9af5af71f5c411270d0a2851f26d
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心VPN便捷开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
+Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
+Name: CCVPN
+Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -13,4 +431,179 @@ Section: Tweaks
 Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。作者源已下架，备份上架。
 Author: sunshinesong
 Name: recorder-bubble
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/DockX_2.6.2_iphoneos-arm64.deb
+Size: 421076
+MD5sum: c8b03a65e233bf6ae7ffe84b4971c3ef
+SHA1: 8c692397bd56a87739d67e3d2103812b62e05c9d
+SHA256: 30663c61c10219795b92ef302fc480e5d899fae9693f0a6a21ec265be6952949
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.xx.dyhook
+Version: 2.0.6+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音图层_2.0.6+8_iphoneos-arm64.deb
+Size: 3904200
+MD5sum: c49d2817ec1d83b341be4e1e998a39eb
+SHA1: 63322ad295249c03616c35363d8cb5f32207a448
+SHA256: b4d54e8fd336f6168002df550b4e5360bcdf1c8db01ed8798f26d601b26ff42f
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.fqxshook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/番茄小说优化_1.0.2_iphoneos-arm64.deb
+Size: 48156
+MD5sum: e2a8f5ce5cda9b76969ad199d0b11370
+SHA1: 393fe95a47c4584b5a2d83c0dcf2566cc993752f
+SHA256: 01a62ab412416b4dbd493c445cb1523855b65b39ff17027c84d3b0387059d9bc
+Section: Tweaks
+Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.qsyyhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/汽水音乐NoAds_1.0.2_iphoneos-arm64.deb
+Size: 12336
+MD5sum: 384075dc743df76a81c9deaf9c76384d
+SHA1: 71a14cc9044c4794903385985a09cbc9f3c0356c
+SHA256: cac57309f7c3a33e42684de76f93f1ac2b9eb581ae6a5685e0e40762924a6132
+Section: Tweaks
+Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自行测试是否可用 不能用就在设置界面长按可以关闭或者卸载此插件)
+Author: x✨
+Name: 汽水音乐NoAds
+
+Package: com.yourepo.lly.dismissalert-rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/DismissAlert-Rootless【屏蔽弹窗】_1.0.0_iphoneos-arm64.deb
+Size: 108276
+MD5sum: b24e32b04307e308ad8123fdf929861b
+SHA1: 188367641f4901c358715545d9717743ad48f022
+SHA256: 20f1170294f727ca99cc19dc040052b3ada610deb6a6eb1c2a3934d45d81dcc0
+Section: Tweaks
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
+Name: DismissAlert-Rootless【屏蔽弹窗】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
+
+Package: netskao.cccellularrate-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/CCCellularRate-Rootless_1.1-1_iphoneos-arm64.deb
+Size: 89760
+MD5sum: d3f83665f716c39aac844ac5b1365958
+SHA1: 8e97802ef3f5043823556d96f34e88621c1af5d8
+SHA256: f1b51e231a97d8305ee4337202a1cacf3b791ec0193cd2b9eea5126804188c2e
+Section: Netskao-Tweaks
+Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
+Author: Netskao
+Name: CCCellularRate-Rootless
+
+Package: netskao.ccsim-rootless
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/CCSIM-Rootless_1.1-9_iphoneos-arm64.deb
+Size: 23444
+MD5sum: b1d9352ac3c7086476c88fbc47d14c7b
+SHA1: 248e22ceb58b18c075fa51beae8063cac9e337a6
+SHA256: 79317bac5f1f9c36a5b74739373fc903b87240771da78fbdc0de434da41b20e6
+Section: Netskao-Tweaks
+Description: For dual-SIM cards, you can quickly enable or disable one of the SIM cards through the Control Center
+Author: Netskao
+Name: CCSIM-Rootless
+
+Package: netskao.ccswitchdata-rootless
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 132
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/CCSwitchData-Rootless_1.1-4_iphoneos-arm64.deb
+Size: 20820
+MD5sum: 9634a32f2b9ee2dfaf4f973877acfc66
+SHA1: ad59c3e3b84297f96b35c2ff9614674a78bf5c4b
+SHA256: 970d1dc8b9a28954311c58c269ae6efba8ab025ef46af3c6147b8546872522cb
+Section: Netskao-Tweaks
+Description: For dual-SIM cards, the selected cellular network can be switched quickly via the Control Center
+Author: Netskao
+Name: CCSwitchData-Rootless
+
+Package: netskao.wechatpurification
+Version: 4.2-7
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 17133
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/微信净化_4.2-7_iphoneos-arm64.deb
+Size: 6270584
+MD5sum: df6baac311e88d219e5673054c580567
+SHA1: c1ce2dde586a873f922a1670c6b2b759429255c0
+SHA256: cba092cf9a6003f10a147727745722ef8250b0eaaebcdbd0c67c6a40914351b3
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: zp.3dtouchtounject.rootless
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/禁止注入之长按图标 - rootless_1.0.2_iphoneos-arm64.deb
+Size: 5576
+MD5sum: f2edf90771fa4d7c4f8e2874105a161f
+SHA1: 47cb679050dc68028007c18fc8b5321187360df9
+SHA256: e6638359c23e65377cee0f4d4c9c69a2dd1d2b17de2eb2ccd94493eef6711072
+Section: Tweaks
+Description: 底层控制是否禁用注入（也是操作plist文件，所以官方版不支持）
+ - 优点：大部分APP不会检测到越狱。
+ - 缺点：插件无法生效。
+ - 1.0.1：修复下初始化问题。
+ - 1.0.2：细节优化。!
+Author: zqbb
+Name: 禁止注入之长按图标 - rootless
+Sileodepiction: https://rootless.002599.xyz/web/zp.3dtouchtounject.rootless
 
