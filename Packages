@@ -72,25 +72,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: InstaLauncher 2侧边快捷APP神器-Rootless
 Sponsor: 搬运工
 
-Package: byg.iosios.net.settingsrevamp
-Version: 2.1.1
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 540
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.hk.settingsrevamp.cn.rl
-Filename: ./debs/SettingsRevamp-设置归类-Rootless_2.1.1_iphoneos-arm64.deb
-Size: 97280
-MD5sum: 83a05ab6eafcda026926e031c27297d6
-SHA1: 25489862a2af271dc829d1d2ec27b8a8893ed7d1
-SHA256: 43fcd57563374cebc901aa3ec145135ec5575bf51660e9bfa2685afcf6dfd8a9
-Section: 插件依赖
-Description: Customize the ios settings page插件设置归类，更新修复重多bug！插件已自带汉化，安装会自动移除中文包，无法更新可以先缷载再更新！现已支持顶图点击进入AppleID！
-Author: SOPPPra
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: SettingsRevamp-设置归类-Rootless
-Sponsor: 搬运工
-
 Package: byg.iosios.net.sneakycam
 Version: 2.0.7
 Architecture: iphoneos-arm64
