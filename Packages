@@ -1,3 +1,19 @@
+Package: A-iPhone
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/A-iPhone_1.0.0_iphoneos-arm64.deb
+Size: 823124
+MD5sum: 38f91203628a94ca9f02f44888f31ffc
+SHA1: 6a94961c99938fc6d64a064903bafd8b2e9b4ee3
+SHA256: 885620b31d5a77210166b86cfaf292430cae2cd9bff997f7686bf8fa3764f05d
+Section: 666
+Description: 不要为了越狱而放弃升级的快乐 一键升级最新系统🤣
+Author: 深情冰美式
+Name: A-白苹果插件
+
 Package: byg.iosios.net.cpudasher.rootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
