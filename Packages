@@ -648,22 +648,6 @@ Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
 
-Package: com.nx.appcardlite
-Version: 2.2.5-8
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 908
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/App Lecard_2.2.5-8_iphoneos-arm64.deb
-Size: 186336
-MD5sum: f4eff2dbd29433e6f109cb0777b180c4
-SHA1: 682d18c88e26bc5f1f1a4cbb0ba928e6bfdde4e0
-SHA256: 9b1e3a528a0fb8db03fafda2809908b5a9bb1f959c71d21b8a7ddfe911f22e63
-Section: Tweaks
-Description: A !
-Author: Crassna
-Name: App Lecard
-
 Package: com.skypain.ccrespring
 Version: 1.1.0-2
 Architecture: iphoneos-arm64
