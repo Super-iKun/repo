@@ -649,22 +649,6 @@ Author: c1d3r
 Name: PullOver Pro
 
 Package: com.nx.appcardlite
-Version: 2.2.5-8
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 908
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/App Card Lite_2.2.5-8_iphoneos-arm64.deb
-Size: 186268
-MD5sum: 59540ab11a2d7d41f65f38709885257c
-SHA1: c7b4724f2ab78054c205ffae9d0f26acb751102d
-SHA256: a73b099111d08f87003a7d6b88749e12145e7b985b08729f51e8a0f27ed3dc87
-Section: Tweaks
-Description: 新分屏 这版横屏键盘在一侧另一版横屏键盘在中间 其他没有区别
-Author: Crassna
-Name: App Lecard
-
-Package: com.nx.appcardlite
 Version: 2.2.6
 Architecture: iphoneos-arm64
 Maintainer: Crassna
