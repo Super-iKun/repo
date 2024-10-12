@@ -654,6 +654,22 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/App Card Lite_2.2.6_iphoneos-arm64.deb
+Size: 184928
+MD5sum: 588d083885390a4f68fec84f13c647ce
+SHA1: 85f72b61d21c3fdcae141f364279693c89c2ab63
+SHA256: 73473d3011c695a78d1e937fc3971904baeaca74205568cf1796ef3a021b3cf6
+Section: Tweaks
+Description: 功能：1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试) 2.浮窗底部快速上滑关闭浮窗3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑 4.小屏脑门和下巴都没了,操作区域底部宽度降低了 5.底部左右滑动，切换app 6.底部长按不松手拖动改变窗口位置 7.底部长按后松手可双指缩放，单指移动，双击恢复 7.1 双指上 .右. 下边缘也可缩放,难度自适应 8.底部上拉一定距离震动后松手，进入app选择界面，左侧Mirror为已添加，点击图标可置顶app，User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.快速右滑关闭app选择窗口,慢速不让退
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/APP Card Lite_2.2.6_iphoneos-arm64.deb
 Size: 186414
 MD5sum: a978f011d75889b09aa96b71df6c433d
