@@ -1195,13 +1195,13 @@ Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 11056
+Installed-Size: 11316
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层_2.0.6+8_iphoneos-arm64.deb
-Size: 3904200
-MD5sum: c49d2817ec1d83b341be4e1e998a39eb
-SHA1: 63322ad295249c03616c35363d8cb5f32207a448
-SHA256: b4d54e8fd336f6168002df550b4e5360bcdf1c8db01ed8798f26d601b26ff42f
+Filename: ./debs/抖音图层2.0.6+8无根重制版.deb
+Size: 3995578
+MD5sum: 85d28b2c0c8f4cb713dcea0db36ba75b
+SHA1: 32654efe9aa646a988a7c31469872bb9c3cf62fb
+SHA256: 3394371090fc6978f1c36525b4c650b51ee0640744abf53f7cbb0e43bba45df5
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
