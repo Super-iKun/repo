@@ -1292,21 +1292,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
 Name: DismissAlert-Rootless【屏蔽弹窗】
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
 
-Package: com.zaf.bqgcj
-Version: 2.5
-Architecture: iphoneos-arm64
-Maintainer: 真爱粉
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/A白苹果插件（其实宝藏助手165）.deb
-Size: 1428732
-MD5sum: 41e3f262e6a0e9c8c6f52b3d2d715d04
-SHA1: 0175147390b31caa9193830dfa617a6fe88d9593
-SHA256: 9d7231268ed41df655a13a0462d4514445ae969a1e83a615024af3a9c5aa28ca
-Section: 荔枝你让我怎么荔枝！
-Description: 不要为了越狱而放弃升级的快乐！一键更新最新系统！
-Author: 小黑子苏珊
-Name: A白苹果插件
-
 Package: me.nixuge.networkmanager
 Version: 1.4.3
 Architecture: iphoneos-arm64
