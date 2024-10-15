@@ -90,6 +90,22 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SneakyCam隐私相机-Rootless
 Sponsor: 搬运工
 
+Package: codes.aurora.kayoko
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/kayoko_2.2_iphoneos-arm64.deb
+Size: 118226
+MD5sum: 0cd093f6e17b0046928c6387d1b69cb3
+SHA1: 5b3363785b76320c701f711741d05c244683ef3c
+SHA256: f8aef6ec262c15f0e0391185a9fafbd4caddb2489b1ab4e0b8532bbf4c777691
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.1
 Architecture: iphoneos-arm64
