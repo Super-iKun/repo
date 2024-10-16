@@ -1081,6 +1081,22 @@ Author: Crassna
 Name: App Lecard
 
 Package: com.nx.appcardlite
+Version: 2.2.9
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 940
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.nx.appcardlite_2.2.9_iphoneos-arm64.deb
+Size: 185748
+MD5sum: 6ce1ee27f06606f7125990d36eab2503
+SHA1: 4e72fb29e2c36dfc657a15faa34430dc688a38b2
+SHA256: 00a9b5d376d5e29945ecb8286172def96c8f8b419f31951aeb489c06cecc1bd7
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
 Version: 2.3FT
 Architecture: iphoneos-arm64
 Maintainer: Crassna
