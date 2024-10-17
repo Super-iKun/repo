@@ -471,6 +471,21 @@ Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
+Package: com.huami.DYYY
+Version: 1.5
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.5_iphoneos-arm64_rootless.deb
+Size: 26186
+MD5sum: 9071a2dff1566b9972ae81a533a95144
+SHA1: 7b6d5c9aafef27cf5010aa98405d49537927a17a
+SHA256: 5cefb9e64e38af771d14846ce571cfb4bbde623b74d3470aa4e3a969289fe276
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
 Package: com.huami.dyyy
 Version: 1.4-2
 Architecture: iphoneos-arm64
