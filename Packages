@@ -486,22 +486,6 @@ Description: 仅供学习交流，请在24内小时内自觉删除
 Author: huami
 Name: DYYY
 
-Package: com.huami.dyyy
-Version: 1.4-2
-Architecture: iphoneos-arm64
-Maintainer: someone
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/DYYY_1.4-2_iphoneos-arm64.deb
-Size: 19704
-MD5sum: 16f031a88abbfba17de8c9012cd5179d
-SHA1: fab2f8b1a72ccb8c2f1c57449682560e89e743a3
-SHA256: ef0d8e9e4deeb7710eb73aae1da6e2f047dc171a920f2ea50fadc0bc562bc1fd
-Section: Tweaks
-Priority: optional
-Description: 仅供学习交流，请在24内小时内自觉删除
-Author: huami
-Name: DYYY
-
 Package: com.huami.fixfullscreenfordy30
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -582,69 +566,107 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
-Package: com.netskao.awemedisablebar
-Version: 1.1-3
+Package: com.netskao.awemealwaysshowtime
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 172
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/AwemeDisableBar_1.1-3_iphoneos-arm64.deb
-Size: 42048
-MD5sum: 4a55593b0befff486fdd38f6ef0c0329
-SHA1: 60253dbeffbe1e6a5a6b6667face320d309bcb3e
-SHA256: 429eca1e2c2b428dd31d845c5ab444e920cb6c662b82d718da2110c222d62dc0
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.netskao.awemealwaysshowtime_1.1-1_iphoneos-arm64.deb
+Size: 2312
+MD5sum: e01834b0ee0fe02e0ec9adf9a029eb8b
+SHA1: 9150fc47c787a4b57f4c9dbf05161b97a15f57ea
+SHA256: 107079edc569872e264f13c7e04928ab42aec7cc8a392b7e63e80e39f6535f55
 Section: Netskao-Tweaks
-Description: Aweme Disable Top/Bottom Tab Button. Tested only on version 30.3.0 and above
+Description: Aweme always shows the video creation time
+Author: Netskao
+Name: AwemeAlwaysShowTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemealwaysshowtime.json
+
+Package: com.netskao.awemeclearlikes
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemeclearlikes_1.1-2_iphoneos-arm64.deb
+Size: 19872
+MD5sum: dd7e1923e51e91a538391fefa3b8edf8
+SHA1: c28121cfd91a4ee704d4a3700259945203aa55ed
+SHA256: e23010f094b08d8689959a71f4a042305965c8081fff6840666ccc60330e5edc
+Section: Netskao-Tweaks
+Description: Aweme Clear All Likes, Shake it on my favorite page to get started!
+Author: Netskao
+Name: AwemeClearLikes
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemeclearlikes.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64.deb
+Size: 304804
+MD5sum: 3898d8c2ab3582b39ea59e1aa890d84c
+SHA1: 65a532118e342ef10111d9ab0767fa032f940295
+SHA256: 959b7aee8feebc5f785d18feb5647317218e9393d6bf9c80c62135bc94ebd836
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
 
 Package: com.netskao.awemedownloadmedia
-Version: 1.1-7
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 436
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/AwemeDownloadMedia_1.1-7_iphoneos-arm64.deb
-Size: 112112
-MD5sum: d109befd7f681973e5a2f8d5f87489f2
-SHA1: 48705de23eea94e4efcef579eaac9fb5918c8bd7
-SHA256: 8cef51cb63d97410e188ff0a128b4343ff17b3704ec28f0c3df0531e30fb4bfe
-Section: Netskao-Tweaks
-Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
-Author: Netskao
-Name: AwemeDownloadMedia
-
-Package: com.netskao.awemefullscreen
 Version: 1.1-8
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 108
+Installed-Size: 456
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/AwemeFullScreen_1.1-8_iphoneos-arm64.deb
-Size: 23760
-MD5sum: 17580f2bbc181b2745edfa5cde994b5d
-SHA1: 8cf3847cfac0f23ce8cd57b7ad9fec04ab5da81d
-SHA256: e9d7dcf67fd29cdd66672ee7491406f4f4a4f718bdd95d7e1d162dd5ab1b8d5b
+Filename: ./debs/com.netskao.awemedownloadmedia_1.1-8_iphoneos-arm64.deb
+Size: 147408
+MD5sum: 9dfc1e19eca0cf3ed1d15970080ea259
+SHA1: c44750e113c948f126e963b28f5a919e73085175
+SHA256: 7c4c1321d3cba56e64f2913b0596344eb1422b1a3e66a5590430990aad0caa1e
 Section: Netskao-Tweaks
-Description: Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.
+Description: Aweme No Watermark Download Media. Tested only on version 31.7.0 and above
+Author: Netskao
+Name: AwemeDownloadMedia
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedownloadmedia.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 384
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.2-3_iphoneos-arm64.deb
+Size: 161692
+MD5sum: 9cc3509ee595b7de443142e5bb4c6cd3
+SHA1: 5436d0b41de5b23899c7e667e855a6e87ffe6b0a
+SHA256: 248dcee14290e59ac10b96c413c4c2734658754ce43a8714abc63591fda93429
+Section: Netskao-Tweaks
+Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
 Author: Netskao
 Name: AwemeFullScreen
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
 
 Package: com.netskao.awemevideotime
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 124
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/AwemeVideoTime_1.1-1_iphoneos-arm64.deb
-Size: 28324
-MD5sum: 0e52ca812c45e9bebee3dc4bb74a01e8
-SHA1: 61abc34c7cfd258ea78f522755c406c83e95f843
-SHA256: 80be3c1c3e929945036a65de079e9187cf8894f4ae7e4c9919d98608f6cafce2
+Filename: ./debs/com.netskao.awemevideotime_1.1-2_iphoneos-arm64.deb
+Size: 31644
+MD5sum: 17d01017c3b93a50d43790f1c15a4fd6
+SHA1: a588d3e3b2143fc28c07538fa17625ec4ec0ca38
+SHA256: 66ba3e2d1a2a56ff4b7f157fedfe59ac99b0a14f779a09c8b65dd73ef8fb91e9
 Section: Netskao-Tweaks
 Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeVideoTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
 
 Package: com.netskao.ccbadgeclear
 Version: 1.2-6
@@ -1253,22 +1275,6 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.xx.dyhook
-Version: 2.0.6+8
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 11316
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层2.0.6+8无根重制版.deb
-Size: 3995578
-MD5sum: 85d28b2c0c8f4cb713dcea0db36ba75b
-SHA1: 32654efe9aa646a988a7c31469872bb9c3cf62fb
-SHA256: 3394371090fc6978f1c36525b4c650b51ee0640744abf53f7cbb0e43bba45df5
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
 
 Package: com.xx.fqxshook
 Version: 1.0.2
