@@ -878,6 +878,22 @@ Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-6_iphoneos-arm64.deb
+Size: 52886
+MD5sum: 4ab01d2068152bfa22dab5cf55288c42
+SHA1: 40815a20d067d0e681f56dfcb46a80cc12b1a432
+SHA256: ad3390155b2ae01daad2f45ddf72dad2c69977d07f4177e45fc8ff3677d61dfa
+Section: Tweaks
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Name: WCMyPageInfoCenter
+
 Package: com.nx.appcardlite
 Version: 1.0.4-16
 Architecture: iphoneos-arm64
