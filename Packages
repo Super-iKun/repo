@@ -894,6 +894,22 @@ Description: WeChat My Page Info Center, Supported only for version 8.0.31 and a
 Author: Netskao
 Name: WCMyPageInfoCenter
 
+Package: com.netskao.wcmypageinfocenter
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-7_iphoneos-arm64.deb
+Size: 52420
+MD5sum: 67acb34cbf7282aef58fc58e37335fd7
+SHA1: 9b7b63a29c299bff901d7ab377f6274788f1cb58
+SHA256: a051dc6b1328b89e574c0751c9414a88492deae9a2321e7c56f5ceeb644c922d
+Section: Tweaks
+Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
+Author: Netskao
+Name: WCMyPageInfoCenter
+
 Package: com.nx.appcardlite
 Version: 1.0.4-16
 Architecture: iphoneos-arm64
