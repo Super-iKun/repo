@@ -1940,6 +1940,27 @@ Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
+Package: com.xx.dyhooks.old
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dy1.0.3_iphoneos-arm64e.deb
+Size: 42676
+MD5sum: 1e1f3e8c5b9146c72cb0ff9de74dc347
+SHA1: 4ed39f5d92d4c46c746eca38f3b1d2b0dd198f52
+SHA256: 637fffbdcd73c64c6e5ddc81d5cc3a74f00e28e4af065c5cd1c91fc1dd338b79
+Section: 抖音插件
+Description: 旧版本，功能较少
+ * 无限制使用
+ * 隐藏部分图层元素
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层旧版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
+
 Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm64
