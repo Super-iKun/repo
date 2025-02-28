@@ -803,6 +803,502 @@ Author: Netskao
 Name: WCMyPageInfoCenter
 
 Package: com.nx.appcardlite
+Version: 1.0.4-16
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-16_iphoneos-arm64.deb
+Size: 177430
+MD5sum: 25d633d010a4251954c3237dd59b6fb7
+SHA1: 6b3ca0b62769656eaf81eca72d15a0e6382087a1
+SHA256: 3dc8b707060859f9745ebd7c785242de9d272801a17ae35d42071923400f61c1
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-20
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-20_iphoneos-arm64.deb
+Size: 176872
+MD5sum: 62d86546a413acb152220fa472102ab4
+SHA1: 177987b32570e6ae9e9da84f49f3933f68efab76
+SHA256: 88449b1ff7d39a2a348ae827bbfb02952cb319c559aefd980ed34547803fd169
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-22
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-22_iphoneos-arm64.deb
+Size: 176938
+MD5sum: b76023d81014d926474751c1f8c42a04
+SHA1: 3cb3be3583be225cd61ef723cecadf3950536b28
+SHA256: 221d9187aceb1bb39d0b4f59696a7b576ac8931bbe5e990ce9720b29ace3630a
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-24
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-24_iphoneos-arm64.deb
+Size: 177314
+MD5sum: 0c8f2735ed65ec52b3e2811a7e5c1838
+SHA1: a0295740eac41c33efbd1b95b91cc204c98b81f0
+SHA256: 67b10aba501262914d6c4ad2d7ffa2ca62817ec04c33299eab82d06bbee3315d
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-32
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-32_iphoneos-arm64.deb
+Size: 178488
+MD5sum: cd3bcb4bd37eb24492182930d4641e80
+SHA1: 120d61101466e5794e68d66d981e79665d1c0f92
+SHA256: ce38112c607d5a7fb0a4e646e5076cbf85d05f888b8c887b8187bacfe2d978e6
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-34
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-34_iphoneos-arm64.deb
+Size: 178458
+MD5sum: c947aef02347e5c527a9e8f0b3e014d2
+SHA1: 5efaea765f339f78aae2f30c37312284bd13bd38
+SHA256: fe0fe5c48ab187349534bd8208fdb90e83b20ad7ee925cbbd8673f2f9fb8d9cb
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-35
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-35_iphoneos-arm64.deb
+Size: 178444
+MD5sum: b561552798cdffa66029033545aa15ef
+SHA1: 9aa450cf5a3cf6f4b60d6e1597d3afcb5102af3e
+SHA256: 1496c202c369f37ec426be3390bb1448035e4ac90615587317fb5ac8a0a7a695
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 1.0.4-36
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_1.0.4-36_iphoneos-arm64.deb
+Size: 178444
+MD5sum: 0a73ffa39a0d1a1157cdd52a0233ba16
+SHA1: a31d24b3b258e789d37fc6342df2003ba39fdd89
+SHA256: 5e645e12a700920d2efb36ea6a676d4ad61ed202ffc1e6d11eecf16a4e449fb8
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.0-1_iphoneos-arm64.deb
+Size: 177012
+MD5sum: 58764bf8f270ed494fc69164072a902d
+SHA1: 87998bc181c2f4695972721ac4f1fe92007358e6
+SHA256: 87b0da4942230b9e3e0222d912dc1de918c9b432ca898919ea6679ec1fd3b947
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.0-16
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.0-16_iphoneos-arm64.deb
+Size: 177894
+MD5sum: 0b8470c2135338f9d592083dd22c93b2
+SHA1: 4dffcb690fca61ec090ba5448db2d20f78fb6d0e
+SHA256: a17b21f287c382a6670e7b9dcde546e101aca0fef75689b73ec5bef496166e5b
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.1.1-1_iphoneos-arm64.deb
+Size: 177676
+MD5sum: 3659ff5404531fecc74e921da5a8ef07
+SHA1: 0f8c6752068bd64f5b9efc2802f53a9a39a8b4cd
+SHA256: a3f59d01a5a73a0ed34756e12e2241285f51b8d8848be6846070b5feca1ab003
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.1.1-2_iphoneos-arm64.deb
+Size: 177478
+MD5sum: 62c3c538cca81c7aa8bbebe872e5ff8d
+SHA1: c8c44a7c54e4424203380807fe2be3c678448a9e
+SHA256: 0e924d26ecbad220a894e98b6d93c9de94c0afb3999edc68ad6cdfff1c47575a
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.1.2-1
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.1.2-1_iphoneos-arm64.deb
+Size: 178658
+MD5sum: b683b144643ed8a9fd7b6851b3107db1
+SHA1: 2cc6c0f30f155811a1d36288c98773de7d8ba2f4
+SHA256: 75f301ff85551ad33b2d19a5fb3eddefd7605e78b577c6770dd53caf497bcd57
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: lCrassna
+Installed-Size: 840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.1.3-1_iphoneos-arm64.deb
+Size: 183444
+MD5sum: 62f7ce8445b90f2945781bf1b18eec28
+SHA1: d51a456de112b8ba10aaad83b095502514c5a4ac
+SHA256: 3001ac69dee12bad049ced1f76353193785f4cde4f7c86174ac20e4c6d55fbae
+Section: Tweaks
+Description: App Window!
+Author: lCrassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.1.5-6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 824
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.1.5-6_iphoneos-arm64.deb
+Size: 176692
+MD5sum: 9a5b34b39a45892d73121b7e74214130
+SHA1: 879cde9ab1af457f938d88d4854276d6e54b80f2
+SHA256: 6501294d29537415fc22532e1894dba7066753c79463f8eb0986e431d5314255
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.1.6-6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 860
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.1.6-6_iphoneos-arm64.deb
+Size: 187078
+MD5sum: 303f092126bf8579823344868ddafadb
+SHA1: 3b02884da8e0842fdd1f1187032fec5bf589eb3d
+SHA256: 415ee732710c7a99251af1620cdaa0953a44915278660e504d4e1f4b226587f4
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.1-3
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 876
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.1-3_iphoneos-arm64.deb
+Size: 193822
+MD5sum: 513d368a6ce6f08d6415a3cbbace6bee
+SHA1: 76a8ac9fd9a8f0d0bdc9a7bd756e198e03ac76d9
+SHA256: 53302589659e0aafe751bb5a71af4d47492b4a3c65c71d44d7157d7ed193a6d5
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.3-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.3-1.deb
+Size: 200082
+MD5sum: 5917027d74979cb1b24967f2be3ad466
+SHA1: 33ed9c4b42fbe9e387b0ac8483aa858340e4ba56
+SHA256: 6a5d6b443e3af4cb7b1731f2327d350412d887caf9f4eabe30ff5577d32d4748
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.4-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.4-1_iphoneos-arm64.deb
+Size: 198970
+MD5sum: 180e1314cc6385bef1e816b9e35a0b31
+SHA1: 31c874634646f48c32216684757ee0cab831a53d
+SHA256: 117cfb007b61c88eeadc3255a2f66e56abc671cf05a016975a30230509cc6c20
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.5-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.5-1_iphoneos-arm64.deb
+Size: 199276
+MD5sum: 6c1b7a733ffc89563871a4df5fd6f079
+SHA1: ab5ad05250d6cdac543658735be413da04d1dab2
+SHA256: fe3d887b31c4dc1865391842f00283f8375e86b328924dbc4fa2de55a33971f8
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.5-3
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.5-3_iphoneos-arm64.deb
+Size: 200468
+MD5sum: 61a255bc4382a49a9ab532d36e5f5776
+SHA1: 514e8c6cb907e6b38ec2f7160b54767404985dcc
+SHA256: e747c4b31edb859acdc9291a914f90922c62544547cb6d97bc2d2f5ba2aeeca9
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.5-5
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.5-5_iphoneos-arm64.deb
+Size: 201210
+MD5sum: c6db0d2073a6f6b1f711bd4393641c95
+SHA1: 0caf70bacb1a4a01ade2726b24e0fc56c33a2db9
+SHA256: c02566d2ad7e54981e63a7c703631abfa2f77db406ea8d63dd6c223ec37d5d45
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.5-8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/App Lecard_2.2.5-8_iphoneos-arm64.deb
+Size: 186372
+MD5sum: a1b6379212f54d8d6b6e688859a3a1e6
+SHA1: bfa33e02762e29d7f5367c5e8e9730592d0ee850
+SHA256: 0e66525af0de3f371d474ebef9c92bb1e1f748fe1578653b25ca4e8d1bb66098
+Section: Tweaks
+Description: 分屏 自行摸索不会用就卸载
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.5-8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.5-8_iphoneos-arm64.deb
+Size: 186268
+MD5sum: 59540ab11a2d7d41f65f38709885257c
+SHA1: c7b4724f2ab78054c205ffae9d0f26acb751102d
+SHA256: a73b099111d08f87003a7d6b88749e12145e7b985b08729f51e8a0f27ed3dc87
+Section: Tweaks
+Description: 新分屏 这版横屏键盘在一侧另一版横屏键盘在中间 其他没有区别
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.6_iphoneos-arm64.deb
+Size: 184234
+MD5sum: 40bbb109253782e9e568f99535336fca
+SHA1: 333808bc09438ecc977c5bb26241d97ce1fb27ef
+SHA256: 8376b842b9e6223088cc15a1b7e0b59614ad8b176aa089c083e0b52bc301ff30
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.6_iphoneos-arm64.deb
+Size: 184928
+MD5sum: 588d083885390a4f68fec84f13c647ce
+SHA1: 85f72b61d21c3fdcae141f364279693c89c2ab63
+SHA256: 73473d3011c695a78d1e937fc3971904baeaca74205568cf1796ef3a021b3cf6
+Section: Tweaks
+Description: 功能：1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试) 2.浮窗底部快速上滑关闭浮窗3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑 4.小屏脑门和下巴都没了,操作区域底部宽度降低了 5.底部左右滑动，切换app 6.底部长按不松手拖动改变窗口位置 7.底部长按后松手可双指缩放，单指移动，双击恢复 7.1 双指上 .右. 下边缘也可缩放,难度自适应 8.底部上拉一定距离震动后松手，进入app选择界面，左侧Mirror为已添加，点击图标可置顶app，User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.快速右滑关闭app选择窗口,慢速不让退
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.6_iphoneos-arm64第一版.deb
+Size: 186414
+MD5sum: a978f011d75889b09aa96b71df6c433d
+SHA1: 1c818328a5cfaf013d1046bde247203de9026271
+SHA256: 093637e43345db82145a71028746aaacdf7ba61bd7dcfd0846ddbac81b81a413
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 940
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.7_iphoneos-arm64.deb
+Size: 189412
+MD5sum: 33fe0036eba22a51247fdb3701af8e98
+SHA1: 58147ee81bdac94c72f75692ce28515ab47cda8c
+SHA256: fcf469d92408e90c619dfd20cee92f9c10da66e13ff231c21c8f33cb2081691c
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 940
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.8_iphoneos-arm64.deb
+Size: 185780
+MD5sum: ca35f9fad6ccd6e263f5bd2bbacae5aa
+SHA1: a6db090799591b0220f77fd455c2921126599c37
+SHA256: 8b895e94e69c5857b4057d6328268d080c8da1ab0722fa061ce1bc8a35536d94
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.9
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 940
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.9_iphoneos-arm64.deb
+Size: 185748
+MD5sum: 6ce1ee27f06606f7125990d36eab2503
+SHA1: 4e72fb29e2c36dfc657a15faa34430dc688a38b2
+SHA256: 00a9b5d376d5e29945ecb8286172def96c8f8b419f31951aeb489c06cecc1bd7
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.3FT
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 972
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.3FT_iphoneos-arm64.deb
+Size: 193664
+MD5sum: b3bf8489295ea5c38e5e5fa93a705421
+SHA1: c5c65bd52cb79fbb79bdd079d5ccfbff18aae7f1
+SHA256: 17862c5bd1cf4d4f6f5f0435499f841073a1a014d3f184d7d0ca75eea37ffdba
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
 Version: 3.0.0
 Architecture: iphoneos-arm64
 Maintainer: Crassna
