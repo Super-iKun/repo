@@ -840,22 +840,6 @@ Description: Jailbrea!
 Author: Crassna
 Name: aiBreak
 
-Package: com.lecard.wuyu
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 5168
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debs/iPhone-arm64/App Card Lite/com.lecard.wuyu_1.1.7_iphoneos-arm64.deb
-Size: 1052118
-MD5sum: 3f63ff0ec4c26149e6fdf560e467d239
-SHA1: 339d9c13c97867e1492cd4c3ac80b69d8513f656
-SHA256: ca178ece61ecb4f4b5fdcd2d5322b02955a0e2c3777d24ecd663475aadb73fce
-Section: Tweaks
-Description: A !
-Author: Crassna
-Name: App Lecard
-
 Package: com.netskao.appdata
 Version: 1.4.2
 Architecture: iphoneos-arm64
