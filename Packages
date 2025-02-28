@@ -956,22 +956,6 @@ Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
 Package: com.huami.dyyy
-Version: 1.7
-Architecture: iphoneos-arm64
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/DYYY_1.7_iphoneos-arm64.deb
-Size: 19624
-MD5sum: 2114d60f73ba2f8cebb09db74468b662
-SHA1: 1ea48f09eb473af34e9f55e0bdf49cd70bc352bd
-SHA256: f83cd38527c17489845ca6dbf781768151f2f5b2e0454d7a56d4d6590d2c8c0a
-Section: Tweaks
-Priority: optional
-Description: 仅供学习交流，请在24内小时内自觉删除
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
 Version: 1.9-9+1
 Architecture: iphoneos-arm64
 Maintainer: huami
@@ -1053,6 +1037,38 @@ Section: Tweaks
 Description: Jailbrea!
 Author: Crassna
 Name: aiBreak
+
+Package: com.lecard.wuyu
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.lecard.wuyu_0.1_iphoneos-arm64.deb
+Size: 408846
+MD5sum: 94c33650a1299131ff88eb0beaf21517
+SHA1: 2feec0eb838d180d5565520ca69cc0feb301a873
+SHA256: 6637dfd3b9c5aca70e748399b89a5c27c3f5fdbc3b9ba7de78448c7dc9163b26
+Section: Tweaks
+Description: Jailbrea!
+Author: Crassna
+Name: aiBreak
+
+Package: com.lecard.wuyu
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 5168
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.lecard.wuyu_1.1.7_iphoneos-arm64.deb
+Size: 1052118
+MD5sum: 3f63ff0ec4c26149e6fdf560e467d239
+SHA1: 339d9c13c97867e1492cd4c3ac80b69d8513f656
+SHA256: ca178ece61ecb4f4b5fdcd2d5322b02955a0e2c3777d24ecd663475aadb73fce
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
 
 Package: com.nathan.internalstoragesettings
 Version: 1.0
@@ -1717,6 +1733,22 @@ Author: Crassna
 Name: App Lecard
 
 Package: com.nx.appcardlite
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 972
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_3.0.0_iphoneos-arm64.deb
+Size: 196544
+MD5sum: 1da0e6fdd50c7a1b716f6ac83aec4805
+SHA1: 9875ef593c3e6dba3cae391828c3b9ba9223d336
+SHA256: 4fc98eeb5bc6b169592d66f3a3ac847c0883f482e5a0406e78761693a21cc13b
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
 Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: Crassna
@@ -1733,12 +1765,44 @@ Author: Crassna
 Name: App Lecard
 
 Package: com.nx.appcardlite
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 904
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_3.0.1_iphoneos-arm64.deb
+Size: 189090
+MD5sum: 303b1081dd555c2cd3e3eede5499b3b9
+SHA1: ca0a898c0e3ad234878b342e7b338a33d5881e33
+SHA256: 3773f901b897eb2df4aa757e4dca911aeba195d64b1b0227feb1255bff8e551c
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
 Version: 3.1.0
 Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 1060
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/com.nx.appcardlite_3.1.0_iphoneos-arm64.deb
+Size: 229246
+MD5sum: 2bf5835b098fa1dc180c2be4e96909fd
+SHA1: 2cb1051895f89aaaec73d220de814aa50d4731a1
+SHA256: 0017f194f6103bc44f45baadf8aa31268a54c5f3f09518789dbd6363dc79f352
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 3.1.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1060
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_3.1.0_iphoneos-arm64.deb
 Size: 229246
 MD5sum: 2bf5835b098fa1dc180c2be4e96909fd
 SHA1: 2cb1051895f89aaaec73d220de814aa50d4731a1
