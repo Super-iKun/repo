@@ -707,38 +707,6 @@ Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版(rootless)
 
-Package: com.dao.bhinsta
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.bhinsta
-Filename: ./debs/BHInsta(rootless)_0.0.1_iphoneos-arm64.deb
-Size: 69328
-MD5sum: be64848a89adbeefcbaecfaeb5f806bd
-SHA1: 1b1f743605c8e7b25f3c064330159c819368ec9c
-SHA256: 6e72ea4ab7061aae54902d60e568ee3bf0ae682f3d6b824ab6ff6e8c3c6a019a
-Section: 嗨-工具
-Description: Instagram多功能插件，可去广告、下载等，源内有汉化包。
-Author: Bandar Alruwaili
-Name: BHInsta(rootless)
-
-Package: com.dao.bhtwitter
-Version: 4.3-1
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.bhtwitter.cn
-Filename: ./debs/BHTwitter 中文版(rootless)_4.3-1_iphoneos-arm64.deb
-Size: 7621788
-MD5sum: 01414fd7d68cddf3a56d82e96c5d7dfd
-SHA1: a3dce8ec7f755fb38678a7709acb110ea15e0d89
-SHA256: e9145e80a845882a0ab921a164fc88833e3f374f2b8af175ecde0cda4c5e20fa
-Section: 嗨-工具
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Author: Bandar Alruwaili
-Name: BHTwitter 中文版(rootless)
-
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -755,22 +723,6 @@ Section: 嗨-汉化
 Description: HideSerialNumber 简体中文包(rootless)。
 Author: 妖刀
 Name: HideSerialNumber 简体中文包(rootless)
-
-Package: com.dao.mk.cn
-Version: 2.1.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Conflicts: com.dao.misaki.cn
-Filename: ./debs/Misaki 中文补充包(rootless)_2.1.3_iphoneos-arm64.deb
-Size: 6252
-MD5sum: 7c6b242cebdbec77762082d127343443
-SHA1: 4e3f8b61aef7b547c180d512a8754f4a0b633fe7
-SHA256: 04fda15fe7aebe08c5c082d18a040ef70fe6dc0a7dc148919374b1fdaaf0b7ac
-Section: 嗨-汉化
-Description: Misaki 中文补充包(rootless)。
-Author: 妖刀
-Name: Misaki 中文补充包(rootless)
 
 Package: com.dao.reverie
 Version: 0.7
@@ -790,105 +742,6 @@ Author: Paisseon
 Name: Reverie 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
-Package: com.dao.rocket.cn
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/Rocket 简体中文包(rootless)_1.1_iphoneos-arm64.deb
-Size: 7332
-MD5sum: 90833f7fc59cc8b92437dc3681743224
-SHA1: 5e5a7a5c1b688436b1d6b50c2059e6d513231afb
-SHA256: de21b9f5ed2f03c312957af7edbba66d1aa712ff1a33aa8d883e1bacc5c164fc
-Section: 嗨-汉化
-Description: Rocket for Instagram 简体中文包(rootless)。
-Author: 妖刀
-Name: Rocket 简体中文包(rootless)
-
-Package: com.dao.youtubereborn
-Version: 4.2.6-2
-Architecture: iphoneos-arm64
-Maintainer: arichornlover & 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: ./debs/YTR 中文版(rootless)_4.2.6-2_iphoneos-arm64.deb
-Size: 9095548
-MD5sum: 2ca61ff1b1637871670c0ceab9e2bb63
-SHA1: dd7000899f23e92eaabc6f9f11b049970880af8e
-SHA256: a9c450e4216011e1084c2ce6af37a8d3806edc21a63420a19cc19212994718e5
-Section: 嗨-工具
-Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
-Author: Lillie & arichornlover
-Name: YTR 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
-
-Package: com.dao.ytlite
-Version: 5.0.2
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: ./debs/YTLite(rootless)_5.0.2_iphoneos-arm64.deb
-Size: 6098332
-MD5sum: 93a4904928bfe57a741aa1e87a491f14
-SHA1: f645b5bd335f311dc9bc3ac6b07d238acbcbaa8c
-SHA256: 3025b0e2f2e52c3dcd4a37f62ba27e743e93bc0cf7fb6f9b88538a59f9b93a28
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(rootless)
-
-Package: com.ginsu.ytmusicultimate
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: Ginsu
-Installed-Size: 26388
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/YTMusicUltimate_2.1_iphoneos-arm64.deb
-Size: 9265596
-MD5sum: 33b3e27881277ee1ca320bfd0490be8f
-SHA1: c57b105e99e8ff62e4ea3b4f3628c6198a2028aa
-SHA256: 527390663226e19d2bf7404e23093f95f433c06809c3356b939b1901ed28aca7
-Section: Tweaks
-Description: YouTube Music Premium
-Author: Ginsu
-Depiction: https://repo.swing1993.cn/depictions/index.html?packageId=com.ginsu.ytmusicultimate
-Icon: https://repo.swing1993.cn/api/packageinfo/com.ginsu.ytmusicultimate/icon.png
-Name: YTMusicUltimate
-Sileodepiction: https://repo.swing1993.cn/depictions/native/com.ginsu.ytmusicultimate.json
-
-Package: com.hk.bhinsta.cn.rl
-Version: 0.0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/BHInsta 简体中文包(rootless)_0.0.1-1_iphoneos-arm64.deb
-Size: 5412
-MD5sum: 3345323508a3b8d782112768f13a0ebc
-SHA1: 626b3aeec66309ccf755a6cb110b57b4fb8da81f
-SHA256: 2fe632910cb65fbe2ef2e377f1273b9f636b1c865be370a880e42a987d963064
-Section: 嗨-汉化
-Description: BHInsta 简体中文包(rootless)。
-Author: 妖刀
-Name: BHInsta 简体中文包(rootless)
-
-Package: com.hk.choicy.cn.rl
-Version: 1.4.6
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: ./debs/Choicy 简体中文包(rootless)_1.4.6_iphoneos-arm64.deb
-Size: 4272
-MD5sum: 05ed14de95f41863d6c4db41e19c9d32
-SHA1: c676428120943b3962726264f03bb58cda73b3e8
-SHA256: d90c0b7b1e1ef83abb0439afbdb5a2658a6d400392eb94a3da6bbc45b046fd3c
-Section: 嗨-汉化
-Description: Choicy 简体中文包(rootless)。
-Author: 妖刀
-Name: Choicy 简体中文包(rootless)
-
 Package: com.hk.liddell.cn.rl
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -903,23 +756,6 @@ Section: 嗨-汉化
 Description: Liddell 简体中文包(rootless)。
 Author: 妖刀
 Name: Liddell 简体中文包(rootless)
-
-Package: com.hk.trollstore.cn.rl
-Version: 2.0.14
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Conflicts: com.qms.trollstore.cn
-Filename: ./debs/TrollStore 简体中文包(rootless)_2.0.14_iphoneos-arm64.deb
-Size: 13968
-MD5sum: 6d23324f0dd5ce02b0f86b9c5c354e1d
-SHA1: da3fb33e67ef5a50ecbfbf5a653e59c2c25c1196
-SHA256: d4b11b5cffbd12d3feec869b7766341081fe6d0d939d02860aaa3881dde534e8
-Section: 嗨-汉化
-Description: TrollStore 简体中文包(rootless)。
-Author: 妖刀
-Name: TrollStore 简体中文包(rootless)
 
 Package: com.huami.dyyy
 Version: 1.9-9+1
@@ -1019,21 +855,6 @@ Section: Tweaks
 Description: A !
 Author: Crassna
 Name: App Lecard
-
-Package: com.nathan.internalstoragesettings
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 136
-Filename: ./debs/InternalStorageSettings_1.0_iphoneos-arm64.deb
-Size: 3984
-MD5sum: 55f813b13b507d14d987d17723273145
-SHA1: 78dbd178e794406a9399ee5a68d908105aa45072
-SHA256: 854f0388d81be4b8b52feffcd299339a7cec6049b93603d12de4f4c62b777083
-Section: Tweaks
-Description: Tweak to enable the hidden storage settings
-Author: Nathan Senter
-Name: InternalStorageSettings
 
 Package: com.netskao.appdata
 Version: 1.4.2
@@ -1152,22 +973,6 @@ Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeVideoTime
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
-
-Package: com.netskao.ccbadgeclear
-Version: 1.2-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 224
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/CCBadgeClear_1.2-6_iphoneos-arm64.deb
-Size: 25688
-MD5sum: bb2439cd91b8fc38ff4fc6ef06890786
-SHA1: 1cfed3543437dfafa1487a8da8eaa29c4ac144c0
-SHA256: 3f69ec304450a96838c5addce8063cbce8e95fca989efc6c0e4579a425542ee8
-Section: Netskao-Tweaks
-Description: Quickly clean up all red badge on desktop via Control Center, Support iOS15+
-Author: Netskao
-Name: CCBadgeClear
 
 Package: com.netskao.pulloverpro
 Version: 2.1.6
@@ -1762,46 +1567,6 @@ Description: A !
 Author: Crassna
 Name: App Lecard
 
-Package: com.skypain.ccrespring
-Version: 1.1.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 164
-Depends: com.opa334.ccsupport
-Filename: ./debs/CCRespring_1.1.0-2_iphoneos-arm64.deb
-Size: 13112
-MD5sum: 80e1962f8b91675a0c477d87e495270f
-SHA1: 6b51ddf6a3d767c7db7f06c7fb1324930e80d32c
-SHA256: 7c6152f853e7610298b52a434524c0a31d39e5a1b983d269db5dc70f229737b9
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心注销模块
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
-Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
-Name: CCRespring
-Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
-
-Package: com.skypain.ccvpn
-Version: 1.1.1-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 184
-Depends: com.opa334.ccsupport
-Filename: ./debs/CCVPN_1.1.1-2_iphoneos-arm64.deb
-Size: 30656
-MD5sum: 852d2619ed7a4d19a82d982d821e8358
-SHA1: 80c112bdcc2ade55514cad7322a103b7443b2708
-SHA256: 8ad845fa94f6bf5048a9724245646a8257ee9af5af71f5c411270d0a2851f26d
-Section: Control Center (Modules)
-Homepage: https://skypain.github.io/repo/
-Description: 控制中心VPN便捷开关模块
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
-Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
-Name: CCVPN
-Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
-
 Package: com.sunshinesong.native-island
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -2175,6 +1940,193 @@ Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
+Version: 1.3.8
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5720
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.8.deb
+Size: 2350806
+MD5sum: 44a725f4f381a7c5dc8de193d5736e26
+SHA1: 55edae6f55ebabfe6e9f8faaa8604e1c1b6ff5df
+SHA256: a45dc3d53830c23d16321361543aa622a31c581ffc0344152363037be97d07d8
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.8-1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.8-1.deb
+Size: 2341764
+MD5sum: 25285d024bf1db4d0e2b30669c50baee
+SHA1: 8d596a39bd1b396c557eeb9bcfdba46e7363de3d
+SHA256: 5656845b01b41f33df65e2e50d89da259bfbca687dfe17d9e022c9ccce8b82a7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.8-2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.8-2.deb
+Size: 2352210
+MD5sum: b04ab4bd76cacc96737e481d655f870d
+SHA1: 45ef1db2c14a6086ba3b959045da6a0c3a0fe6e6
+SHA256: f1d6e615171554c4cf4cc3a36c5811cbd614f3160387e0b6fd098c431a6f57d5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5436
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9.deb
+Size: 2296710
+MD5sum: 18861f4f3b5debd38efee8f82b2def87
+SHA1: c8d3998a06e50a9cae267a9bb2e2358ff1137b1d
+SHA256: 10937428c6a644a75db9455af3eb7074dd900cd43dea7d2c66372f6aa461fc26
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-1.deb
+Size: 2303388
+MD5sum: 3e9e0496402557bea33dc63441f08a2e
+SHA1: b75668cdf4e0a4fb4354e6ff0627d809e5b75977
+SHA256: f7666b034e73b8f08a2d34691d3c0223042c8cf5b868644726c5c4dbb1eb8571
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-2.deb
+Size: 2307008
+MD5sum: 56ee1bd18bc83c2f04fc0c398752da22
+SHA1: bcc270e4e57f4040962ea0afc24e84860b0fb360
+SHA256: b5f7266e169fff74b5923cc88735f02a3d1a3cd603d74675f8a86e7dfb1177f4
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-3.deb
+Size: 2305812
+MD5sum: 15df480191a4825001b3997882fd755d
+SHA1: 95ef410c085de2314e594facdada70e5ce41c529
+SHA256: 011a8d6fcf7258f20391f2bda727df9974c14e5274aa210c7a4c3ace81e68b7b
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-4.deb
+Size: 2298802
+MD5sum: 1e2457dc9fe2603122ed16497266aa9f
+SHA1: 2a576d789853ea347f4008081ce050b75ef69ac0
+SHA256: 82633f68dcf3c060eea20a3272b980649ce1a1427225bab27c2f0f5933308707
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-5
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-5.deb
+Size: 2307520
+MD5sum: c977672f47b46712bebbf7d8d3857003
+SHA1: 6425df95f65704bde04b857434b21898d9216120
+SHA256: 2ad9073eb188f790f92c934a188623c2f1a2faffe63fae98613987590eec83ef
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5516
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-6.deb
+Size: 2306302
+MD5sum: 1a07097a264464dbbf263028786e10f8
+SHA1: f9436c7ce5a2dd552d0cd07921753d056c9db346
+SHA256: 52762a765ff0d81179dfdc4bc90f218c3dead157e5274bcc9fff2b78a4140e39
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.9-7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5500
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iPhone-arm64/split-view-pro/1.3.9-7.deb
+Size: 2308296
+MD5sum: 17fb41b09c701125a438696720bc294c
+SHA1: 0f01ac7b921f9a7363da4bf43c02f0b8724f34e8
+SHA256: 42486280c5723210257970fec516d5590162df0dcb423969cc967157fe718772
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
@@ -2329,43 +2281,6 @@ Author: 灰灰 <krylov0@outlook.com>
 Icon: http://q1.qlogo.cn/g?b=qq&nk=84666997&s=640
 Name: zh-Hans for CCAdsBeGone
 
-Package: com.yourepo.lly.adsspee-rootless
-Version: 1.1.1K
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 600
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.yourepo.lenglengyu.adsspeed
-Filename: ./debs/VideoAdsSpeed-Rootless【快速跳过广告】_1.1.1K_iphoneos-arm64.deb
-Size: 104368
-MD5sum: 454b1ff0dc69f79c7c686016940bd687
-SHA1: 1a7af1100c13e7b3d1a68a97e165883a4948506a
-SHA256: b142047c9c024391cf56984fc720009b0940e1263c651267496768f36920c425
-Section: Tweaks
-Description: 快速跳过激励视频广告，奖励正常领取。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
-Name: VideoAdsSpeed-Rootless【快速跳过广告】
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
-
-Package: com.yourepo.lly.dismissalert-rootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 620
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/DismissAlert-Rootless【屏蔽弹窗】_1.0.0_iphoneos-arm64.deb
-Size: 108276
-MD5sum: b24e32b04307e308ad8123fdf929861b
-SHA1: 188367641f4901c358715545d9717743ad48f022
-SHA256: 20f1170294f727ca99cc19dc040052b3ada610deb6a6eb1c2a3934d45d81dcc0
-Section: Tweaks
-Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
-Name: DismissAlert-Rootless【屏蔽弹窗】
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
-
 Package: me.nixuge.networkmanager
 Version: 1.4.3
 Architecture: iphoneos-arm64
@@ -2385,54 +2300,6 @@ Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 Moderndepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Name: NetworkManagerReborn
 Sileodepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
-
-Package: netskao.cccellularrate-rootless
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 616
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/CCCellularRate-Rootless_1.1-1_iphoneos-arm64.deb
-Size: 89760
-MD5sum: d3f83665f716c39aac844ac5b1365958
-SHA1: 8e97802ef3f5043823556d96f34e88621c1af5d8
-SHA256: f1b51e231a97d8305ee4337202a1cacf3b791ec0193cd2b9eea5126804188c2e
-Section: Netskao-Tweaks
-Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
-Author: Netskao
-Name: CCCellularRate-Rootless
-
-Package: netskao.ccsim-rootless
-Version: 1.1-9
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 188
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/CCSIM-Rootless_1.1-9_iphoneos-arm64.deb
-Size: 23444
-MD5sum: b1d9352ac3c7086476c88fbc47d14c7b
-SHA1: 248e22ceb58b18c075fa51beae8063cac9e337a6
-SHA256: 79317bac5f1f9c36a5b74739373fc903b87240771da78fbdc0de434da41b20e6
-Section: Netskao-Tweaks
-Description: For dual-SIM cards, you can quickly enable or disable one of the SIM cards through the Control Center
-Author: Netskao
-Name: CCSIM-Rootless
-
-Package: netskao.ccswitchdata-rootless
-Version: 1.1-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 132
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/CCSwitchData-Rootless_1.1-4_iphoneos-arm64.deb
-Size: 20820
-MD5sum: 9634a32f2b9ee2dfaf4f973877acfc66
-SHA1: ad59c3e3b84297f96b35c2ff9614674a78bf5c4b
-SHA256: 970d1dc8b9a28954311c58c269ae6efba8ab025ef46af3c6147b8546872522cb
-Section: Netskao-Tweaks
-Description: For dual-SIM cards, the selected cellular network can be switched quickly via the Control Center
-Author: Netskao
-Name: CCSwitchData-Rootless
 
 Package: netskao.wechatpurification
 Version: 4.2-7
@@ -2454,22 +2321,4 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpuri
 Dev: netskao
 Name: 微信净化
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: xyz.cypwn.rocket
-Version: 3.8.29k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/Rocket for Instagram_3.8.29k_iphoneos-arm64.deb
-Size: 1444528
-MD5sum: 78969cf476f5a98ed462af3b9047437c
-SHA1: 204451b0d6f0cc82b99ef4a6ed64bb7278766a32
-SHA256: d49129c99edfb8139ea5f5ae1934b9bebbc8fc5f866dad9a897c2961cf3e2f1a
-Section: Tweaks
-Description: Save posts and view stories anonymously and do much more
-Author: Rocket App
-Depiction: https://repo.cypwn.xyz/depiction/2768
-Icon: https://repo.cypwn.xyz/packages/RocketforInstagram-Rootless/icon.png
-Name: Rocket for Instagram
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2768
 
