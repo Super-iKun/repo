@@ -808,6 +808,22 @@ Author: cike
 Name: 拼多多NoAds-Rootless
 Sponsor: cike
 
+Package: com.hui.k2gecamen.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 灰灰
+Depends: firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/zh-HansforK2gecamen.0.0.1.deb
+Size: 2660
+MD5sum: bd03b972970139203ae47b0919d16101
+SHA1: c0ad6392e025ccfe3ecb65d6161a66dc293289c2
+SHA256: 5fb4f0febdd5c8438b5b3df36d9e3764f39b5cb9a9ece6c94ea9bae7a72a12e9
+Section: Tweaks
+Description: 为K2gecamen提供简体中文
+Author: 灰灰
+Icon: http://q1.qlogo.cn/g?b=qq&nk=84666997&s=640
+Name: zh-Hans for K2gecamen
+
 Package: com.lclrc.hidepullover
 Version: 0.0.1
 Architecture: iphoneos-arm64
