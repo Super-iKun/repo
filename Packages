@@ -2244,6 +2244,43 @@ Description: 音量管理，就是这么简单。包含功能：混响、多元�
 Author: sunshinesong
 Name: VolumeManager
 
+Package: com.susu.ios18batteryestimate
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/iPhone-arm64e/com.susu.ios18batteryestimate_1.0.8_iphoneos-arm64e.deb
+Size: 26088
+MD5sum: f145e29d170913df158593ac0b3f872e
+SHA1: 090f1abdfc45a4678504ea9e5dbb98e58ed32c7f
+SHA256: 6ffa23e9d4afefb90380ecc0ecba0060b7a4fbd21966fce145962ad879ccd343
+Section: 调整
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://www.susubaby.top/images/batteryestimate.png
+Name: iOS18BatteryEstimate
+Sileodepiction: https://www.susubaby.top/json/iOS18BatteryEstimate/js.json
+
+Package: com.susu.springanimation
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iPhone-arm64e/com.susu.springanimation_1.0.8_iphoneos-arm64e.deb
+Size: 7746
+MD5sum: 5270314bf23fbfc3b06680f25ef99117
+SHA1: caa6e45269727bcb625f40bd33150ed825c5726e
+SHA256: ba1372219d5b10ef2943190d8d69b0661ecfe80d9bcfb51675eb4af879e0e7af
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
 Package: com.susu.suxhshook
 Version: 1.0
 Architecture: iphoneos-arm64
