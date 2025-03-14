@@ -92,6 +92,28 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SneakyCam隐私相机-Rootless
 Sponsor: 搬运工
 
+Package: cn.zqbb.fix120hz
+Version: 2.0.0-5
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 1900
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: ./debs/iPhone-arm64/cn.zqbb.fix120hz_2.0.0-5_iphoneos-arm64.deb
+Size: 583148
+MD5sum: c1d6100e790c52767ff87a2e0d385612
+SHA1: 6c35396eee8182860e2305cd890b31517d384265
+SHA256: c78dfd0801746b3fa39e4c0262c055a45a74cb6906ca297f3f93baa21955ad07
+Section: Tweaks
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+Name: Hello 120Hz
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
 Package: codes.aurora.kayoko
 Version: 2.2
 Architecture: iphoneos-arm64
