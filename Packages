@@ -798,7 +798,7 @@ Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 2736
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/com.be-huge.floating-view_1.5.0-11_iphoneos-arm64.deb
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.0-11_iphoneos-arm64.deb
 Size: 541620
 MD5sum: 680fac74df54f08ef80589dd3af96ddf
 SHA1: 8ad51f17be9ffadf7dbab31b38dbbebe279e2437
@@ -814,7 +814,7 @@ Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 2736
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/com.be-huge.floating-view_1.5.0-12_iphoneos-arm64.deb
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.0-12_iphoneos-arm64.deb
 Size: 541360
 MD5sum: 382fb394ca9bd1a452d9f1af53479b98
 SHA1: 330b2de7aeec1da45f33b14f84f63aaa62e65ccc
@@ -931,6 +931,22 @@ Size: 542152
 MD5sum: 74dc2ec10e19636210f9565e8be2d0f9
 SHA1: a05f98b28a616af8f45c36b65c55831afd673ea3
 SHA256: 4638e36f8e4f1ff87b0893409c0d05a5b86355668a1964bdb30ffd80769b6b74
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2780
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.1_iphoneos-arm64.deb
+Size: 543914
+MD5sum: 3ca95fb1eb57c1125254d37a876b692b
+SHA1: b4137947fceb38aa8a452347bb322338f71d5809
+SHA256: dadb21140fa98d1717c65f13ebd4bd667aa1266b819cdf3f1d11947505fbcf58
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
