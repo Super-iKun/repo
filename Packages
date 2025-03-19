@@ -74,6 +74,26 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: InstaLauncher 2侧边快捷APP神器-Rootless
 Sponsor: 搬运工
 
+Package: byg.iosios.net.sneakyca.rootless
+Version: 2.0.7.1
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 560
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: byg.iosios.net.sneakycam
+Filename: ./debs/iPhone-arm64e/byg.iosios.net.sneakyca.rootless_2.0.7.1_iphoneos-arm64e.deb
+Size: 124548
+MD5sum: e7c50702f287bfaf436d64094cde3917
+SHA1: f769dca6f10ee84ecdc63808c4a0b4bb5ffd7f45
+SHA256: d0af587a21b84797ac6f8e10febd71f2383636ae1584d174731b70b8ee8f4a65
+Section: 杂七杂八
+Description: 本插件去掉了legacy64依赖，但可能会造成安全模式，有问题请用源里的另一款！SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。Smile 滫威锋网友提供，SneakyCam去除兼容层，直接安装插件本体。使用基板作者的Allemand (OldABI v2) 修改。
+Author: Spark
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: SneakyCam 隐私相机-Rootless
+Sponsor: 搬运工
+
 Package: byg.iosios.net.sneakycam
 Version: 2.0.7
 Architecture: iphoneos-arm64
