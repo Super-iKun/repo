@@ -1004,6 +1004,22 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.2-3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2852
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.2-3_iphoneos-arm64.deb
+Size: 566550
+MD5sum: c5396da5cf227beddc17176ed1607803
+SHA1: 87dddf3d440c2a46e54374ce648ae1bf4a58c6a6
+SHA256: 1c25c19d444f90af614a426051f2b629d0298e1064a4ccedc2258958c8abf1ae
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm64
