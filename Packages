@@ -1123,6 +1123,25 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 
+Package: com.huami.dyyy
+Version: 2.2-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iPhone-arm64e/com.huami.dyyy_2.2-1_iphoneos-arm64e.deb
+Size: 215254
+MD5sum: b1ba0d459a532fd21a83d80567176443
+SHA1: e15749e3cbba182012f5d52cdecc91d50af6738a
+SHA256: dd4d00571e5bb769d9cfb885712ce7199dfb50a4cbc08e6dd315dafaf4ae4c68
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
 Package: com.huami.fixfullscreenfordy30
 Version: 0.1-1
 Architecture: iphoneos-arm64
