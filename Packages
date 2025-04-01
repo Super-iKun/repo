@@ -1146,6 +1146,22 @@ Description: 微信插件，弥补点击微信通知无法跳转到聊天界面�
 Author: be-huge
 Name: WechatPushMsgPage-rootless
 
+Package: com.bulid.dynamicui
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: Charlie Leung
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iPhone-arm64/com.bulid.dynamicui_0.0.1-6+debug_iphoneos-arm.deb
+Size: 8292
+MD5sum: d0765d3530e7634c9590a2361ac1f051
+SHA1: 7e7f56deca71804b28399c206508ce483f20b919
+SHA256: 201549814c573dce8058744763487439e22b9a3418c01e2fa33ac10bd735b488
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Charlie Leung
+Name: DYnamicUI
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm64
