@@ -1097,23 +1097,6 @@ Author: be-huge
 Name: floatingView
 
 Package: com.be-huge.floating-view
-Version: 1.5.2-6
-Architecture: iphoneos-arm64e
-Maintainer: be-huge
-Installed-Size: 2884
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64e/floatingView_1.5.2-6_iphoneos-arm64e.deb
-Size: 578580
-MD5sum: 4126ba99a0cf568dc75bbb7accf73ff6
-SHA1: b930606a03ce5a60421bd978e43f70ffc7579355
-SHA256: f6637038a9cf6e662d2e533ef8963aa882e0191c3cc4e300969b16f476ad0bdf
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
 Version: 1.5.3
 Architecture: iphoneos-arm64
 Maintainer: be-huge
@@ -1996,73 +1979,6 @@ Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
 Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
-
-Package: com.niceios.aperture-roothide
-Version: 1.0.2.0-1
-Architecture: iphoneos-arm64e
-Maintainer: niceios
-Installed-Size: 7496
-Depends: mobilesubstrate, com.niceios.nicehelper-roothide (>= 6.5), preferenceloader
-Filename: ./debs/iPhone-arm64e/Nice真灵动岛【Roothide】_1.0.2.0-1_iphoneos-arm64e.deb
-Size: 2155308
-MD5sum: 892f81717eba2188a413e1407d1f975c
-SHA1: c48d9a8f1aefc298390c3b47192141ff495a0958
-SHA256: 1827b5ab9a4e7db569b3700ca2dbbf7a516fdd6ba96ab36185f87e73e08f46cf
-Section: Tweaks
-Description: 一款真正的灵动岛插件,不止通知上岛.
-Author: niceios
-Name: Nice真灵动岛【Roothide】
-Sponsor: niceios
-
-Package: com.niceios.nicebarx16-roothide
-Version: 1.0.1.6-2
-Architecture: iphoneos-arm64e
-Maintainer: niceios
-Installed-Size: 14940
-Depends: mobilesubstrate, com.niceios.nicehelper-roothide (>= 6.5), preferenceloader
-Filename: ./debs/iPhone-arm64e/NiceBarX(iOS16)【Roothide】_1.0.1.6-2_iphoneos-arm64e.deb
-Size: 4269288
-MD5sum: 92a4356d45f5b6d9f8482b65cad8c8af
-SHA1: aaa8a6a87f781ad95768466959836bdfd96b835f
-SHA256: c4ffb38029dc8f62768d39b94adc68355cfb6760ffe73d1b2060a1b08b848161
-Section: Tweaks
-Description: 状态栏插件.
-Author: niceios
-Name: NiceBarX(iOS16)【Roothide】
-Sponsor: niceios
-
-Package: com.niceios.nicecaller16-roothide
-Version: 1.0.1.4-1
-Architecture: iphoneos-arm64e
-Maintainer: NiceiOS
-Installed-Size: 13476
-Depends: mobilesubstrate, com.niceios.nicehelper-roothide (>= 6.6), preferenceloader
-Filename: ./debs/iPhone-arm64e/NiceCaller(iOS16)【Roothide】_1.0.1.4-1_iphoneos-arm64e.deb
-Size: 3589464
-MD5sum: 6f544cde271d20580cf91d4a61ab99d9
-SHA1: d7a8c9f670325bbe90a991b6eaa87645e50e5931
-SHA256: ef1074db806c99278b8ad50df8fa9cec108ee94506346f17cf7f054f1cf94b69
-Section: Tweaks
-Description: 通话录音,变声器,背景声音,自动应答,安卓样式拨号键盘,骚扰拦截,窗口电话(Callbar),归属地显示
-Author: NiceiOS
-Name: NiceCaller(iOS16)【Roothide】
-Sponsor: NiceiOS
-
-Package: com.niceios.nicehelper-roothide
-Version: 6.8-1
-Architecture: iphoneos-arm64e
-Maintainer: niceios
-Installed-Size: 2556
-Filename: ./debs/iPhone-arm64e/NiceHelper【Roothide】_6.8-1_iphoneos-arm64e.deb
-Size: 736564
-MD5sum: 03335655808de703f97d0346d697c560
-SHA1: f1f7b58dc7d16cbc21658215028a206cc0cfb9c8
-SHA256: 3d53a04e0fa804a050574d0398c0bf85485bc251aa363d94d0957f181502f65c
-Section: Addons
-Description: nice插件依赖组件.
-Author: niceios
-Name: NiceHelper【Roothide】
-Sponsor: niceios
 
 Package: com.nx.appcardlite
 Version: 1.0.4-16
