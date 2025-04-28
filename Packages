@@ -215,11 +215,11 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Depends: com.opa334.ccsupport, com.ps.letmeblock
 Conflicts: com.0xkuj.ccadsbegone
-Filename: ./debs/CCAdsBeGone (rootless)_1.1_iphoneos-arm64.deb
-Size: 119984
-MD5sum: 6be9d28b3041f247a597805d37389bb2
-SHA1: b81b536585811ff714c939a64ebf1e2966b6fccf
-SHA256: 04a8351f917a34d2faf9dc645f690e2c81ee75bd95b1e596c6616dd9fe53387e
+Filename: ./debs/CCadsbegone.rootless_1.1_iphoneos-arm64.deb
+Size: 119848
+MD5sum: 3df40dbee7f2370680378edf8c397e7d
+SHA1: 87d67ff607880a59579ea9c8ab0e4a8077b0bd9f
+SHA256: aa264f4a184bb9158f23230c7dd8ffe2af51edaa868f1e19c00649e4a03847e4
 Section: Tweaks
 Description: CC Toggle to block ads on demand!
 Author: 0xkuj <0xkujz@gmail.com>
@@ -231,11 +231,11 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Depends: com.opa334.ccsupport, com.ps.letmeblock
 Conflicts: com.0xkuj.ccadsbegone
-Filename: ./debs/CCadsbegone.rootless_1.1_iphoneos-arm64.deb
-Size: 119848
-MD5sum: 3df40dbee7f2370680378edf8c397e7d
-SHA1: 87d67ff607880a59579ea9c8ab0e4a8077b0bd9f
-SHA256: aa264f4a184bb9158f23230c7dd8ffe2af51edaa868f1e19c00649e4a03847e4
+Filename: ./debs/CCAdsBeGone (rootless)_1.1_iphoneos-arm64.deb
+Size: 119984
+MD5sum: 6be9d28b3041f247a597805d37389bb2
+SHA1: b81b536585811ff714c939a64ebf1e2966b6fccf
+SHA256: 04a8351f917a34d2faf9dc645f690e2c81ee75bd95b1e596c6616dd9fe53387e
 Section: Tweaks
 Description: CC Toggle to block ads on demand!
 Author: 0xkuj <0xkujz@gmail.com>
@@ -1512,6 +1512,22 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.5-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3148
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.5-5_iphoneos-arm64.deb
+Size: 603232
+MD5sum: eb996ba2b9237ec17abda3315cce3291
+SHA1: 65d077dd376ca1cade2130aee8ad12538835e0db
+SHA256: 946669e36a09c2a9b39fc859c2cfbc9221754596486823614c52cbfc1d37148c
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2628,6 +2644,22 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.5-8_iphoneos-arm64.deb
+Size: 186268
+MD5sum: 59540ab11a2d7d41f65f38709885257c
+SHA1: c7b4724f2ab78054c205ffae9d0f26acb751102d
+SHA256: a73b099111d08f87003a7d6b88749e12145e7b985b08729f51e8a0f27ed3dc87
+Section: Tweaks
+Description: 新分屏 这版横屏键盘在一侧另一版横屏键盘在中间 其他没有区别
+Author: Crassna
+Name: App Lecard
+
+Package: com.nx.appcardlite
+Version: 2.2.5-8
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/iPhone-arm64/App Card Lite/App Lecard_2.2.5-8_iphoneos-arm64.deb
 Size: 186372
 MD5sum: a1b6379212f54d8d6b6e688859a3a1e6
@@ -2639,18 +2671,18 @@ Author: Crassna
 Name: App Lecard
 
 Package: com.nx.appcardlite
-Version: 2.2.5-8
+Version: 2.2.6
 Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.5-8_iphoneos-arm64.deb
-Size: 186268
-MD5sum: 59540ab11a2d7d41f65f38709885257c
-SHA1: c7b4724f2ab78054c205ffae9d0f26acb751102d
-SHA256: a73b099111d08f87003a7d6b88749e12145e7b985b08729f51e8a0f27ed3dc87
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.6_iphoneos-arm64第一版.deb
+Size: 186414
+MD5sum: a978f011d75889b09aa96b71df6c433d
+SHA1: 1c818328a5cfaf013d1046bde247203de9026271
+SHA256: 093637e43345db82145a71028746aaacdf7ba61bd7dcfd0846ddbac81b81a413
 Section: Tweaks
-Description: 新分屏 这版横屏键盘在一侧另一版横屏键盘在中间 其他没有区别
+Description: A !
 Author: Crassna
 Name: App Lecard
 
@@ -2683,22 +2715,6 @@ SHA1: 85f72b61d21c3fdcae141f364279693c89c2ab63
 SHA256: 73473d3011c695a78d1e937fc3971904baeaca74205568cf1796ef3a021b3cf6
 Section: Tweaks
 Description: 功能：1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试) 2.浮窗底部快速上滑关闭浮窗3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑 4.小屏脑门和下巴都没了,操作区域底部宽度降低了 5.底部左右滑动，切换app 6.底部长按不松手拖动改变窗口位置 7.底部长按后松手可双指缩放，单指移动，双击恢复 7.1 双指上 .右. 下边缘也可缩放,难度自适应 8.底部上拉一定距离震动后松手，进入app选择界面，左侧Mirror为已添加，点击图标可置顶app，User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.快速右滑关闭app选择窗口,慢速不让退
-Author: Crassna
-Name: App Lecard
-
-Package: com.nx.appcardlite
-Version: 2.2.6
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 908
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.6_iphoneos-arm64第一版.deb
-Size: 186414
-MD5sum: a978f011d75889b09aa96b71df6c433d
-SHA1: 1c818328a5cfaf013d1046bde247203de9026271
-SHA256: 093637e43345db82145a71028746aaacdf7ba61bd7dcfd0846ddbac81b81a413
-Section: Tweaks
-Description: A !
 Author: Crassna
 Name: App Lecard
 
