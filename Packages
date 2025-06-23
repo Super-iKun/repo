@@ -1640,6 +1640,22 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3180
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.6-4_iphoneos-arm64.deb
+Size: 617320
+MD5sum: 52d39be29c4c3f7916eb375c5ccd6d64
+SHA1: f9d94a4a0b3808e7df0581ef6bf1ec08d71971b1
+SHA256: b5d57c891a322998051dee64824d38bbd8e1f44b98f5f846cd62499c8920c185
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -2788,13 +2804,13 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.6_iphoneos-arm64.deb
-Size: 184234
-MD5sum: 40bbb109253782e9e568f99535336fca
-SHA1: 333808bc09438ecc977c5bb26241d97ce1fb27ef
-SHA256: 8376b842b9e6223088cc15a1b7e0b59614ad8b176aa089c083e0b52bc301ff30
+Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.6_iphoneos-arm64.deb
+Size: 184928
+MD5sum: 588d083885390a4f68fec84f13c647ce
+SHA1: 85f72b61d21c3fdcae141f364279693c89c2ab63
+SHA256: 73473d3011c695a78d1e937fc3971904baeaca74205568cf1796ef3a021b3cf6
 Section: Tweaks
-Description: A !
+Description: 功能：1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试) 2.浮窗底部快速上滑关闭浮窗3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑 4.小屏脑门和下巴都没了,操作区域底部宽度降低了 5.底部左右滑动，切换app 6.底部长按不松手拖动改变窗口位置 7.底部长按后松手可双指缩放，单指移动，双击恢复 7.1 双指上 .右. 下边缘也可缩放,难度自适应 8.底部上拉一定距离震动后松手，进入app选择界面，左侧Mirror为已添加，点击图标可置顶app，User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.快速右滑关闭app选择窗口,慢速不让退
 Author: Crassna
 Name: App Lecard
 
@@ -2820,13 +2836,13 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.6_iphoneos-arm64.deb
-Size: 184928
-MD5sum: 588d083885390a4f68fec84f13c647ce
-SHA1: 85f72b61d21c3fdcae141f364279693c89c2ab63
-SHA256: 73473d3011c695a78d1e937fc3971904baeaca74205568cf1796ef3a021b3cf6
+Filename: ./debs/iPhone-arm64/App Card Lite/com.nx.appcardlite_2.2.6_iphoneos-arm64.deb
+Size: 184234
+MD5sum: 40bbb109253782e9e568f99535336fca
+SHA1: 333808bc09438ecc977c5bb26241d97ce1fb27ef
+SHA256: 8376b842b9e6223088cc15a1b7e0b59614ad8b176aa089c083e0b52bc301ff30
 Section: Tweaks
-Description: 功能：1.屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗,长按1s拖动改变占比(识别不灵敏,换手指多试试) 2.浮窗底部快速上滑关闭浮窗3已删除。左右快速滑动隐藏不是常用功能,改为长按快速左右滑 4.小屏脑门和下巴都没了,操作区域底部宽度降低了 5.底部左右滑动，切换app 6.底部长按不松手拖动改变窗口位置 7.底部长按后松手可双指缩放，单指移动，双击恢复 7.1 双指上 .右. 下边缘也可缩放,难度自适应 8.底部上拉一定距离震动后松手，进入app选择界面，左侧Mirror为已添加，点击图标可置顶app，User System为安装的app，点击添加或取消，左侧Mirror窗口会增减app.快速右滑关闭app选择窗口,慢速不让退
+Description: A !
 Author: Crassna
 Name: App Lecard
 
