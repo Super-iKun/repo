@@ -215,11 +215,11 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Depends: com.opa334.ccsupport, com.ps.letmeblock
 Conflicts: com.0xkuj.ccadsbegone
-Filename: ./debs/CCAdsBeGone (rootless)_1.1_iphoneos-arm64.deb
-Size: 119984
-MD5sum: 6be9d28b3041f247a597805d37389bb2
-SHA1: b81b536585811ff714c939a64ebf1e2966b6fccf
-SHA256: 04a8351f917a34d2faf9dc645f690e2c81ee75bd95b1e596c6616dd9fe53387e
+Filename: ./debs/CCadsbegone.rootless_1.1_iphoneos-arm64.deb
+Size: 119848
+MD5sum: 3df40dbee7f2370680378edf8c397e7d
+SHA1: 87d67ff607880a59579ea9c8ab0e4a8077b0bd9f
+SHA256: aa264f4a184bb9158f23230c7dd8ffe2af51edaa868f1e19c00649e4a03847e4
 Section: Tweaks
 Description: CC Toggle to block ads on demand!
 Author: 0xkuj <0xkujz@gmail.com>
@@ -231,11 +231,11 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Depends: com.opa334.ccsupport, com.ps.letmeblock
 Conflicts: com.0xkuj.ccadsbegone
-Filename: ./debs/CCadsbegone.rootless_1.1_iphoneos-arm64.deb
-Size: 119848
-MD5sum: 3df40dbee7f2370680378edf8c397e7d
-SHA1: 87d67ff607880a59579ea9c8ab0e4a8077b0bd9f
-SHA256: aa264f4a184bb9158f23230c7dd8ffe2af51edaa868f1e19c00649e4a03847e4
+Filename: ./debs/CCAdsBeGone (rootless)_1.1_iphoneos-arm64.deb
+Size: 119984
+MD5sum: 6be9d28b3041f247a597805d37389bb2
+SHA1: b81b536585811ff714c939a64ebf1e2966b6fccf
+SHA256: 04a8351f917a34d2faf9dc645f690e2c81ee75bd95b1e596c6616dd9fe53387e
 Section: Tweaks
 Description: CC Toggle to block ads on demand!
 Author: 0xkuj <0xkujz@gmail.com>
@@ -1641,6 +1641,22 @@ Author: be-huge
 Name: floatingView
 
 Package: com.be-huge.floating-view
+Version: 1.5.6-3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.6-3_iphoneos-arm64.deb
+Size: 616330
+MD5sum: 711a4e4a5ada0160a4499dff397acc72
+SHA1: 3d5e36a91269b0116757656304b2fe5d48b5517f
+SHA256: 475657b67639e6e09409743d95a239e8c1dc7e4357df2b9b5fc64ccaf172eba5
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
 Version: 1.5.6-4
 Architecture: iphoneos-arm64
 Maintainer: be-huge
@@ -1689,6 +1705,22 @@ Author: be-huge
 Name: floatingView
 
 Package: com.be-huge.floating-view
+Version: 1.5.6-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3228
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.6-6_iphoneos-arm64.deb
+Size: 625644
+MD5sum: 67853516f0c25209cd1424ccb7d69cf3
+SHA1: 3235c743c9c73f08d0282089c64d6240963ef5e0
+SHA256: 9f968767318a24465ecbc12fa16f7fa1e49bf0d78ceb1e5f43f1532300e99978
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
 Version: 1.5.6-7
 Architecture: iphoneos-arm64
 Maintainer: be-huge
@@ -1704,22 +1736,117 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
-Package: com.be-huge.wechat-push-msg-page
-Version: 0.0.1
-Architecture: iphoneos-arm64e
+Package: com.be-huge.floating-view
+Version: 1.5.6-8
+Architecture: iphoneos-arm64
 Maintainer: be-huge
-Installed-Size: 232
-Pre-Depends: rootless-compat (>= 0.9)
+Installed-Size: 3232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64e/WechatPushMsgPage-rootless_0.0.1_iphoneos-arm64e.deb
-Size: 24132
-MD5sum: b8f3f4d4c50b9fe72f414e736ba036f3
-SHA1: b71b37634cf317cdaee6703e20e60cf0b67840f6
-SHA256: 6ad65d16e1bce1db3ca2317690fd38a96e740d28c432c462bd6c65f2bc326cef
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.6-8_iphoneos-arm64.deb
+Size: 628516
+MD5sum: a31f2f9b4f7b3253bde7000278bf98c4
+SHA1: 47e81f239d8f6f3d42ba7105ce6e42c0d843bc5b
+SHA256: 47f295d50b689f17f3fa428cb8476d498f70753f7b7194f7290d189d10bf1e92
 Section: Tweaks
-Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
-Name: WechatPushMsgPage-rootless
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-9
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3244
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.6-9_iphoneos-arm64.deb
+Size: 634852
+MD5sum: f5ac70c3dc7feac110ece79f0f6a5dc7
+SHA1: 5006d0ad8e3ec98cae70f5e89ed9e5297a8467a2
+SHA256: 692785d5ed3d7d70ccd1688b1a7f7ffe759e73c64183035ea58a2950b16b79e2
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3264
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.7_iphoneos-arm64.deb
+Size: 640348
+MD5sum: 8af0d221f9ee2d8280a45c30cc4bea35
+SHA1: 2de226872ca43a4d09eb6bb1a8b6e71b6e42a626
+SHA256: 35a96c2e9236d902ea1c272fddadc52387e87ed52bf0f2016351b26e69c564ac
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.7-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3300
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.7-1_iphoneos-arm64.deb
+Size: 642040
+MD5sum: de97ccafbbb4dc2198fae625b866642e
+SHA1: aab45b1b151b57a29f59da2028b9c10cd7bdded6
+SHA256: b22f2354b816da6b4172a4978879dab1090f6569ffa8c0083dba69e705f4f3dc
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.8
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3268
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.8_iphoneos-arm64.deb
+Size: 642856
+MD5sum: 0fb8bce2dd7de68318534e2b0c368f70
+SHA1: da25a35cda98c011df28c985580a75a5c4d4e5c1
+SHA256: 426f6644e2ef1ce647541072b0ba37f2f1a6769d9193753601a0ed3fa9da8968
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3304
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.8-1_iphoneos-arm64.deb
+Size: 644390
+MD5sum: 0e21e1aa635a3e1e066476d818f66d9e
+SHA1: c5fe1226591df5ef3f8038e5bf867bf913f531d5
+SHA256: 9875b8c10dd41eea1c19b50b7f8bf9518a78119bda18546aa125d1f2edb2b923
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3336
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64/floating-view/com.be-huge.floating-view_1.5.8-2_iphoneos-arm64.deb
+Size: 644762
+MD5sum: 6733107e38a3a20ecf7e91c93d86abbe
+SHA1: 40fc30d394f30d29e3defda0b7ddaad94d8bf230
+SHA256: 464703fe94beb8ea0922ed359272a3e67a6908d44985d729e194ab2351eb1c2d
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
 
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
@@ -1732,6 +1859,23 @@ Size: 22994
 MD5sum: f0b1605b488c3c3564da480d5474a05c
 SHA1: baa2f741a68f96992701e7bc9ae5f3f5075de51d
 SHA256: dd9a26a738a01c12ca5a62ea60c5f5b83254e2ea7632255cfc1746655cf5c5a2
+Section: Tweaks
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Author: be-huge
+Name: WechatPushMsgPage-rootless
+
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iPhone-arm64e/WechatPushMsgPage-rootless_0.0.1_iphoneos-arm64e.deb
+Size: 24132
+MD5sum: b8f3f4d4c50b9fe72f414e736ba036f3
+SHA1: b71b37634cf317cdaee6703e20e60cf0b67840f6
+SHA256: 6ad65d16e1bce1db3ca2317690fd38a96e740d28c432c462bd6c65f2bc326cef
 Section: Tweaks
 Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
 Author: be-huge
@@ -1925,6 +2069,24 @@ Name: DYYY
 
 Package: com.huami.dyyy
 Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iPhone-arm64/com.huami.dyyy_2.2-1_iphoneos-arm64.deb
+Size: 147176
+MD5sum: d01ac983cae3c7a7f3c0203554aafac9
+SHA1: 78a30d41e1283412a102ca50e343f1058f7a9ab4
+SHA256: 3dc6d15e75989a7e0ffd7916a06a574f199c266a70d7ba72697b258c44cadf07
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-1
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 848
@@ -1935,24 +2097,6 @@ Size: 215254
 MD5sum: b1ba0d459a532fd21a83d80567176443
 SHA1: e15749e3cbba182012f5d52cdecc91d50af6738a
 SHA256: dd4d00571e5bb769d9cfb885712ce7199dfb50a4cbc08e6dd315dafaf4ae4c68
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.2-1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 848
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iPhone-arm64/com.huami.dyyy_2.2-1_iphoneos-arm64.deb
-Size: 147176
-MD5sum: d01ac983cae3c7a7f3c0203554aafac9
-SHA1: 78a30d41e1283412a102ca50e343f1058f7a9ab4
-SHA256: 3dc6d15e75989a7e0ffd7916a06a574f199c266a70d7ba72697b258c44cadf07
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -2066,6 +2210,22 @@ Name: 5G Enhancer(Rootless)
 
 Package: com.hui.k2gecamen.zh-hans
 Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 灰灰
+Depends: firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/zh-HansforK2gecamen.0.0.1.deb
+Size: 2660
+MD5sum: bd03b972970139203ae47b0919d16101
+SHA1: c0ad6392e025ccfe3ecb65d6161a66dc293289c2
+SHA256: 5fb4f0febdd5c8438b5b3df36d9e3764f39b5cb9a9ece6c94ea9bae7a72a12e9
+Section: Tweaks
+Description: 为K2gecamen提供简体中文
+Author: 灰灰
+Icon: http://q1.qlogo.cn/g?b=qq&nk=84666997&s=640
+Name: zh-Hans for K2gecamen
+
+Package: com.hui.k2gecamen.zh-hans
+Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 灰灰
 Pre-Depends: rootless-compat (>= 0.9)
@@ -2075,22 +2235,6 @@ Size: 3044
 MD5sum: 357362546ed77a3455d102451d92e60b
 SHA1: d119504488e7c2f64a17dececcabb25db644c81d
 SHA256: 78960fa7c74b719bf6a29fa3063afd4d32c8161deb9adb6c8ab3fc79bdbf1fb8
-Section: Tweaks
-Description: 为K2gecamen提供简体中文
-Author: 灰灰
-Icon: http://q1.qlogo.cn/g?b=qq&nk=84666997&s=640
-Name: zh-Hans for K2gecamen
-
-Package: com.hui.k2gecamen.zh-hans
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 灰灰
-Depends: firmware (>= 15.0)
-Filename: ./debs/iPhone-arm64/zh-HansforK2gecamen.0.0.1.deb
-Size: 2660
-MD5sum: bd03b972970139203ae47b0919d16101
-SHA1: c0ad6392e025ccfe3ecb65d6161a66dc293289c2
-SHA256: 5fb4f0febdd5c8438b5b3df36d9e3764f39b5cb9a9ece6c94ea9bae7a72a12e9
 Section: Tweaks
 Description: 为K2gecamen提供简体中文
 Author: 灰灰
@@ -2151,6 +2295,22 @@ Name: SquidGesture Pro
 
 Package: com.lecard.wuyu
 Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iPhone-arm64/App Card Lite/com.lecard.wuyu_0.1_iphoneos-arm64.deb
+Size: 408846
+MD5sum: 94c33650a1299131ff88eb0beaf21517
+SHA1: 2feec0eb838d180d5565520ca69cc0feb301a873
+SHA256: 6637dfd3b9c5aca70e748399b89a5c27c3f5fdbc3b9ba7de78448c7dc9163b26
+Section: Tweaks
+Description: Jailbrea!
+Author: Crassna
+Name: aiBreak
+
+Package: com.lecard.wuyu
+Version: 0.1
 Architecture: iphoneos-arm64e
 Maintainer: Crassna
 Installed-Size: 1948
@@ -2161,22 +2321,6 @@ Size: 595260
 MD5sum: c2db19df628da0705b2f1c6aa3d8557c
 SHA1: 86fbaa0fee313e42953be61401743bf0044237c6
 SHA256: 555cbf03c3025d247ed70da8dbb61611dba8ce08786185acaa8a06229bf619fd
-Section: Tweaks
-Description: Jailbrea!
-Author: Crassna
-Name: aiBreak
-
-Package: com.lecard.wuyu
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 1948
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: ./debs/iPhone-arm64/App Card Lite/com.lecard.wuyu_0.1_iphoneos-arm64.deb
-Size: 408846
-MD5sum: 94c33650a1299131ff88eb0beaf21517
-SHA1: 2feec0eb838d180d5565520ca69cc0feb301a873
-SHA256: 6637dfd3b9c5aca70e748399b89a5c27c3f5fdbc3b9ba7de78448c7dc9163b26
 Section: Tweaks
 Description: Jailbrea!
 Author: Crassna
@@ -2820,13 +2964,13 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/App Card Lite/App Lecard_2.2.5-8_iphoneos-arm64.deb
-Size: 186372
-MD5sum: a1b6379212f54d8d6b6e688859a3a1e6
-SHA1: bfa33e02762e29d7f5367c5e8e9730592d0ee850
-SHA256: 0e66525af0de3f371d474ebef9c92bb1e1f748fe1578653b25ca4e8d1bb66098
+Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.5-8_iphoneos-arm64.deb
+Size: 186268
+MD5sum: 59540ab11a2d7d41f65f38709885257c
+SHA1: c7b4724f2ab78054c205ffae9d0f26acb751102d
+SHA256: a73b099111d08f87003a7d6b88749e12145e7b985b08729f51e8a0f27ed3dc87
 Section: Tweaks
-Description: 分屏 自行摸索不会用就卸载
+Description: 新分屏 这版横屏键盘在一侧另一版横屏键盘在中间 其他没有区别
 Author: Crassna
 Name: App Lecard
 
@@ -2836,13 +2980,13 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 908
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/iPhone-arm64/App Card Lite/App Card Lite_2.2.5-8_iphoneos-arm64.deb
-Size: 186268
-MD5sum: 59540ab11a2d7d41f65f38709885257c
-SHA1: c7b4724f2ab78054c205ffae9d0f26acb751102d
-SHA256: a73b099111d08f87003a7d6b88749e12145e7b985b08729f51e8a0f27ed3dc87
+Filename: ./debs/iPhone-arm64/App Card Lite/App Lecard_2.2.5-8_iphoneos-arm64.deb
+Size: 186372
+MD5sum: a1b6379212f54d8d6b6e688859a3a1e6
+SHA1: bfa33e02762e29d7f5367c5e8e9730592d0ee850
+SHA256: 0e66525af0de3f371d474ebef9c92bb1e1f748fe1578653b25ca4e8d1bb66098
 Section: Tweaks
-Description: 新分屏 这版横屏键盘在一侧另一版横屏键盘在中间 其他没有区别
+Description: 分屏 自行摸索不会用就卸载
 Author: Crassna
 Name: App Lecard
 
